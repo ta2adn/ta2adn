@@ -182,3 +182,11 @@ html,body{
 .moon-shadow{
   background:#0b1b10;
 }
+.cal-day{
+  position:relative;
+  overflow:hidden;
+}
+
+.cal-scroll{
+  will-change:transform;
+}
