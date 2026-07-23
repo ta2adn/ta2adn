@@ -1,0 +1,72 @@
+[
+  {
+    "title": "🏎 FIA FORMULA 2: The Championship Hungary 2026 - Practice",
+    "start": "2026-07-24T12:05:00+03:00",
+    "end": "2026-07-24T12:50:00+03:00",
+    "time": "12:05",
+    "all_day": false
+  },
+  {
+    "title": "🏎 FORMULA 1 AWS HUNGARIAN GRAND PRIX 2026 - Practice 1",
+    "start": "2026-07-24T14:30:00+03:00",
+    "end": "2026-07-24T15:30:00+03:00",
+    "time": "14:30",
+    "all_day": false
+  },
+  {
+    "title": "⏱️ FIA FORMULA 2: The Championship Hungary 2026 - Qualifying",
+    "start": "2026-07-24T17:05:00+03:00",
+    "end": "2026-07-24T17:35:00+03:00",
+    "time": "17:05",
+    "all_day": false
+  },
+  {
+    "title": "🏎 FORMULA 1 AWS HUNGARIAN GRAND PRIX 2026 - Practice 2",
+    "start": "2026-07-24T18:00:00+03:00",
+    "end": "2026-07-24T19:00:00+03:00",
+    "time": "18:00",
+    "all_day": false
+  },
+  {
+    "title": "Serhan Düğün",
+    "start": "2026-07-25T00:00:00+03:00",
+    "end": "2026-07-26T00:00:00+03:00",
+    "time": "Tüm gün",
+    "all_day": true
+  },
+  {
+    "title": "🏎 FORMULA 1 AWS HUNGARIAN GRAND PRIX 2026 - Practice 3",
+    "start": "2026-07-25T13:30:00+03:00",
+    "end": "2026-07-25T14:30:00+03:00",
+    "time": "13:30",
+    "all_day": false
+  },
+  {
+    "title": "🏁 FIA FORMULA 2: The Championship Hungary 2026 - Race",
+    "start": "2026-07-25T15:15:00+03:00",
+    "end": "2026-07-25T16:05:00+03:00",
+    "time": "15:15",
+    "all_day": false
+  },
+  {
+    "title": "⏱️ FORMULA 1 AWS HUNGARIAN GRAND PRIX 2026 - Qualifying",
+    "start": "2026-07-25T17:00:00+03:00",
+    "end": "2026-07-25T18:00:00+03:00",
+    "time": "17:00",
+    "all_day": false
+  },
+  {
+    "title": "🏁 FIA FORMULA 2: The Championship Hungary 2026 - Race",
+    "start": "2026-07-26T12:25:00+03:00",
+    "end": "2026-07-26T13:30:00+03:00",
+    "time": "12:25",
+    "all_day": false
+  },
+  {
+    "title": "🏁 FORMULA 1 AWS HUNGARIAN GRAND PRIX 2026 - Race",
+    "start": "2026-07-26T16:00:00+03:00",
+    "end": "2026-07-26T18:00:00+03:00",
+    "time": "16:00",
+    "all_day": false
+  }
+]

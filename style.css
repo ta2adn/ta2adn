@@ -1,0 +1,117 @@
+
+:root{
+  --bg:#000;--panel:#03121c;--panel2:#071a27;--line:#213746;
+  --text:#f3f6f8;--muted:#aebcc6;--yellow:#ffd21a;--red:#ff3b30;
+}
+*{box-sizing:border-box}
+html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#000;color:var(--text);font-family:Arial,Helvetica,sans-serif}
+body{display:grid;justify-items:center;align-items:start}
+#stage{
+  width:1920px;height:1080px;transform-origin:top center;
+  display:grid;gap:8px;padding:10px;
+  background:radial-gradient(circle at 50% 0,#0a2231 0,#020910 50%);
+  grid-template-columns:repeat(4,1fr);
+  grid-template-rows:120px 424px 290px 202px;
+  grid-template-areas:
+    "top top top top"
+    "radar radar cal cal"
+    "wind sat cal cal"
+    "news news quake quake";
+}
+.panel{background:rgba(3,18,28,.97);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.panel header{height:42px;display:flex;align-items:center;justify-content:space-between;padding:0 16px;border-bottom:1px solid var(--line)}
+h2{font-size:20px;margin:0;letter-spacing:.35px}
+.topbar{grid-area:top;display:grid;grid-template-columns:360px 500px 1fr 360px}
+.clockbox,.weather-now,.forecast,.sunmoon{border-right:1px solid var(--line);padding:12px 20px}
+#clock{font-size:54px;font-weight:700;letter-spacing:2px;line-height:.9}
+#date{color:var(--yellow);font-size:20px;font-weight:700;margin-top:12px}
+.location{margin-top:7px;font-size:17px}
+.weather-now{display:grid;grid-template-columns:92px 145px 1fr;align-items:center}
+.weather-icon{font-size:64px}.weather-now strong{display:block;font-size:44px}.weather-now #condition{font-size:18px}
+.weather-meta{display:grid;gap:9px;color:var(--muted);font-size:16px}
+.forecast{display:grid;grid-template-columns:repeat(5,1fr);align-items:center;gap:8px;padding:10px}
+.day{text-align:center}.day b,.day span{display:block}.day .ico{font-size:30px;margin:7px 0}
+.sunmoon{display:grid;grid-template-columns:1fr 1fr;text-align:center;align-items:center;border-right:0;padding:8px 12px}
+.sunmoon>div+div{border-left:1px solid var(--line)}
+.sunmoon span,.sunmoon strong,.sunmoon small{display:block}
+.sunmoon strong{font-size:21px;margin:4px}
+.astro-content{display:flex;align-items:center;justify-content:center;gap:12px;margin-top:5px}
+.astro-icon{font-size:48px;line-height:1}
+.sun-icon{filter:saturate(1.15)}
+
+.radar{grid-area:radar}.calendar{grid-area:cal}.wind{grid-area:wind}.satellite{grid-area:sat}.quakes{grid-area:quake}.news{grid-area:news}
+
+.map-panel iframe{width:100%;height:calc(100% - 42px)}
+.calendar-grid{
+  height:calc(100% - 42px);display:grid;grid-template-columns:repeat(7,1fr);
+  background:#03121c;
+}
+.cal-day{border-right:1px solid var(--line);padding:10px 9px;min-width:0}
+.cal-day:last-child{border-right:0}
+.cal-day.today{background:#082132}
+.cal-head{display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--line);padding-bottom:8px;margin-bottom:8px}
+.cal-name{font-weight:700}.cal-date{font-size:23px;font-weight:700;color:var(--muted)}
+.cal-day.today .cal-name,.cal-day.today .cal-date{color:#ff5a50}
+.event{padding:8px 9px;margin-bottom:7px;border-left:4px solid #2f9bff;background:#0b2940;border-radius:5px;overflow:hidden}
+.event-time{display:block;color:#8fcaff;font-size:14px;font-weight:700;margin-bottom:3px}
+.event-title{display:block;font-size:15px;line-height:1.16;font-weight:700;word-break:break-word}
+.event.all-day{border-left-color:#b56cff;background:#271442}.event.all-day .event-time{color:#d5b2ff}
+.event.continues{border-left-color:#22c55e;background:#0b3026}
+.more-events{font-size:13px;color:#ffcf5a;text-align:center;padding-top:3px}
+.empty{color:#526875;font-size:14px;text-align:center;margin-top:18px}
+.quake-row{display:grid;grid-template-columns:82px 90px 1fr 92px 118px;align-items:center;padding:0 12px}
+.quake-head{height:34px;color:var(--muted);font-size:13px}
+#quakeList .quake-row{height:31px;border-top:1px solid #1c2d39;font-size:14px}
+.mag{font-size:18px;font-weight:700;color:#ff9d00}.mag.high{color:#ff4038}
+.news header{height:38px}.news-viewport{height:130px;display:grid;place-items:center;padding:0 40px}
+#newsCard{width:100%;display:grid;grid-template-columns:96px 1fr;gap:18px;align-items:center;animation:slideIn .55s ease}
+#newsTime{font-size:23px;background:#b21818;border-radius:7px;padding:10px 6px;text-align:center}
+.news-copy{min-width:0}
+#newsTitle{font-size:25px;line-height:1.15;margin:0 0 8px}
+#newsDescription{font-size:17px;line-height:1.28;color:var(--muted);margin:0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+@keyframes slideIn{from{opacity:0;transform:translateX(45px)}to{opacity:1;transform:none}}
+
+.radar{position:relative}
+.mgm-radar-crop{
+  position:relative;
+  width:100%;
+  height:calc(100% - 42px);
+  overflow:hidden;
+  background:#000;
+}
+#radarImage{
+  display:block;
+  width:122%;
+  max-width:none;
+  height:100%;
+  object-fit:fill;
+  object-position:left center;
+}
+
+.moon-visual{
+  --illumination:62;
+  --waxing:1;
+  position:relative;
+  width:47px;
+  height:47px;
+  border-radius:50%;
+  overflow:hidden;
+  background:#f4f4f4;
+  box-shadow:0 0 8px rgba(255,255,255,.25);
+  flex:0 0 auto;
+}
+.moon-shadow{
+  position:absolute;
+  inset:0;
+  border-radius:50%;
+  background:#07131c;
+  transform-origin:center;
+}
+.moon-visual.new .moon-shadow{transform:none}
+.moon-visual.full .moon-shadow{transform:translateX(110%)}
+.moon-visual.waxing .moon-shadow{
+  transform:translateX(calc(var(--illumination) * 1%));
+}
+.moon-visual.waning .moon-shadow{
+  transform:translateX(calc(var(--illumination) * -1%));
+}
