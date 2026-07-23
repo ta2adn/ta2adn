@@ -2,7 +2,7 @@
 const C=window.DASHBOARD_CONFIG,$=s=>document.querySelector(s);
 
 function fit(){
-  const scale=Math.min(innerWidth/1920,innerHeight/1080);
+  const scale=Math.min(innerWidth/1366,innerHeight/768);
   $('#stage').style.transform=`translateX(-50%) scale(${scale})`;
 }
 addEventListener('resize',fit);fit();
