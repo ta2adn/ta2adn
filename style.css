@@ -116,3 +116,69 @@ h2{font-size:20px;margin:0;letter-spacing:.35px}
 .moon-visual.waning .moon-shadow{
   transform:translateX(calc(var(--illumination) * -1%));
 }
+/* YEŞİL NOC RENK TEMASI */
+:root{
+  --bg:#06130a;
+  --panel:#0a1d10;
+  --panel2:#102819;
+  --line:#355b42;
+  --text:#f3f7f4;
+  --muted:#a9b9ad;
+  --yellow:#ffd21a;
+  --red:#ff4b40;
+}
+
+html,body{
+  background:#06130a;
+}
+
+#stage{
+  background:
+    radial-gradient(circle at 20% 10%, rgba(109,138,73,.30) 0, transparent 34%),
+    radial-gradient(circle at 78% 18%, rgba(69,112,66,.24) 0, transparent 38%),
+    radial-gradient(circle at 50% 72%, rgba(35,82,48,.20) 0, transparent 44%),
+    linear-gradient(180deg,#19351f 0%,#0c2514 48%,#06130a 100%);
+}
+
+.panel{
+  background:rgba(7,25,13,.97);
+}
+
+.calendar-grid{
+  background:#0a1d10;
+}
+
+.cal-day.today{
+  background:#12301c;
+}
+
+.event{
+  border-left-color:#4aa96c;
+  background:#123521;
+}
+
+.event-time{
+  color:#8fd4a7;
+}
+
+.event.all-day{
+  border-left-color:#9c7ad6;
+  background:#2a1b3d;
+}
+
+.event.all-day .event-time{
+  color:#d5b9f3;
+}
+
+.event.continues{
+  border-left-color:#38c66a;
+  background:#103822;
+}
+
+#quakeList .quake-row{
+  border-top-color:#243b2b;
+}
+
+.moon-shadow{
+  background:#0b1b10;
+}
