@@ -106,9 +106,52 @@ function renderCalendar(events){
     const more=dayEvents.length>12?`<div class="more-events">+${dayEvents.length-12} etkinlik daha</div>`:'';
     return `<div class="cal-day ${sameDate(date,now)?'today':''}">
       <div class="cal-head"><span class="cal-name">${names[i]}</span><span class="cal-date">${date.getDate()}</span></div>
-      ${dayEvents.length?cards+more:'<div class="empty">Etkinlik yok</div>'}
+      <div class="cal-scroll">
+  ${dayEvents.length?cards+more:'<div class="empty">Etkinlik yok</div>'}
+</div>
     </div>`;
   }).join('');
+  requestAnimationFrame(animateCalendarOverflow);
+}
+function animateCalendarOverflow(){
+  document.querySelectorAll('.cal-day').forEach(day=>{
+    const scroll=day.querySelector('.cal-scroll');
+    const head=day.querySelector('.cal-head');
+    if(!scroll||!head)return;
+
+    const available=day.clientHeight-head.offsetHeight-18;
+    const overflow=scroll.scrollHeight-available;
+
+    if(overflow<=0)return;
+
+    let direction=-1;
+    let position=0;
+    let pauseUntil=Date.now()+2000;
+
+    function move(){
+      if(Date.now()<pauseUntil){
+        requestAnimationFrame(move);
+        return;
+      }
+
+      position+=direction*0.25;
+
+      if(position<=-overflow){
+        position=-overflow;
+        direction=1;
+        pauseUntil=Date.now()+2000;
+      }else if(position>=0){
+        position=0;
+        direction=-1;
+        pauseUntil=Date.now()+2000;
+      }
+
+      scroll.style.transform=`translateY(${position}px)`;
+      requestAnimationFrame(move);
+    }
+
+    move();
+  });
 }
 function escapeHtml(s){return String(s).replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]))}
 
