@@ -1,9 +1,9 @@
 {
   "current": {
     "temperature": 20.7,
-    "feels_like": 22.3,
+    "feels_like": 22.8,
     "humidity": 75,
-    "wind_speed": 3.8,
+    "wind_speed": 0.0,
     "code": 1,
     "condition": "Az bulutlu"
   },
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Büyüyen Ay",
-    "illumination": 69,
+    "illumination": 71,
     "icon": "🌔",
     "waxing": true
   },
@@ -22,31 +22,31 @@
       "day": "Cum",
       "code": 3,
       "max": 26.5,
-      "min": 20.2
+      "min": 20.1
     },
     {
       "day": "Cmt",
       "code": 80,
       "max": 21.8,
-      "min": 19.3
+      "min": 20.1
     },
     {
       "day": "Paz",
       "code": 3,
-      "max": 25.3,
-      "min": 19.6
+      "max": 25.6,
+      "min": 20.0
     },
     {
       "day": "Pzt",
-      "code": 2,
-      "max": 28.8,
-      "min": 20.5
+      "code": 1,
+      "max": 29.5,
+      "min": 20.6
     },
     {
       "day": "Sal",
-      "code": 3,
-      "max": 28.1,
-      "min": 24.7
+      "code": 2,
+      "max": 29.7,
+      "min": 24.3
     }
   ]
 }
