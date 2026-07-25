@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 21.2,
-    "feels_like": 20.9,
-    "humidity": 80,
-    "wind_speed": 20.9,
-    "code": 80,
-    "condition": "Sağanak"
+    "temperature": 21.0,
+    "feels_like": 20.7,
+    "humidity": 81,
+    "wind_speed": 20.6,
+    "code": 61,
+    "condition": "Yağmurlu"
   },
   "sun": {
     "sunrise": "05:53",
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Büyüyen Ay",
-    "illumination": 82,
+    "illumination": 83,
     "icon": "🌔",
     "waxing": true
   },
@@ -22,7 +22,7 @@
       "day": "Cmt",
       "code": 80,
       "max": 23.7,
-      "min": 20.0
+      "min": 20.2
     },
     {
       "day": "Paz",
