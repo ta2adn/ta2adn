@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 22.7,
-    "feels_like": 22.8,
-    "humidity": 62,
-    "wind_speed": 10.5,
+    "temperature": 23.0,
+    "feels_like": 20.8,
+    "humidity": 57,
+    "wind_speed": 23.8,
     "code": 3,
     "condition": "Kapalı"
   },
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Büyüyen Ay",
-    "illumination": 80,
+    "illumination": 81,
     "icon": "🌔",
     "waxing": true
   },
