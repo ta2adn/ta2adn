@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 22.0,
-    "feels_like": 22.9,
+    "temperature": 21.5,
+    "feels_like": 22.3,
     "humidity": 63,
-    "wind_speed": 3.9,
+    "wind_speed": 3.5,
     "code": 0,
     "condition": "Açık"
   },
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Büyüyen Ay",
-    "illumination": 92,
+    "illumination": 93,
     "icon": "🌔",
     "waxing": true
   },
