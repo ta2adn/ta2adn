@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 21.5,
-    "feels_like": 22.3,
-    "humidity": 63,
-    "wind_speed": 3.5,
+    "temperature": 20.7,
+    "feels_like": 22.0,
+    "humidity": 71,
+    "wind_speed": 3.2,
     "code": 0,
     "condition": "Açık"
   },
@@ -28,7 +28,7 @@
       "day": "Sal",
       "code": 2,
       "max": 30.7,
-      "min": 23.3
+      "min": 23.1
     },
     {
       "day": "Çar",
