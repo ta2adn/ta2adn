@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 29.1,
-    "feels_like": 29.7,
-    "humidity": 54,
-    "wind_speed": 19.7,
-    "code": 0,
-    "condition": "Açık"
+    "temperature": 26.3,
+    "feels_like": 26.9,
+    "humidity": 66,
+    "wind_speed": 20.8,
+    "code": 1,
+    "condition": "Az bulutlu"
   },
   "sun": {
     "sunrise": "05:56",
@@ -27,8 +27,8 @@
     {
       "day": "Çar",
       "code": 2,
-      "max": 28.7,
-      "min": 21.8
+      "max": 28.6,
+      "min": 21.7
     },
     {
       "day": "Per",
@@ -39,14 +39,14 @@
     {
       "day": "Cum",
       "code": 2,
-      "max": 27.7,
-      "min": 21.6
+      "max": 27.5,
+      "min": 21.3
     },
     {
       "day": "Cmt",
       "code": 2,
-      "max": 28.3,
-      "min": 22.1
+      "max": 28.4,
+      "min": 21.9
     }
   ]
 }
