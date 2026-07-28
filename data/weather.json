@@ -1,29 +1,23 @@
 {
   "current": {
-    "temperature": 23.2,
-    "feels_like": 25.3,
-    "humidity": 85,
-    "wind_speed": 14.0,
+    "temperature": 22.9,
+    "feels_like": 25.0,
+    "humidity": 84,
+    "wind_speed": 12.1,
     "code": 2,
     "condition": "Parçalı bulutlu"
   },
   "sun": {
-    "sunrise": "05:56",
-    "sunset": "20:24"
+    "sunrise": "05:57",
+    "sunset": "20:23"
   },
   "moon": {
     "phase": "Dolunay",
-    "illumination": 99,
+    "illumination": 100,
     "icon": "🌕",
     "waxing": true
   },
   "daily": [
-    {
-      "day": "Sal",
-      "code": 2,
-      "max": 30.7,
-      "min": 22.7
-    },
     {
       "day": "Çar",
       "code": 2,
@@ -47,6 +41,12 @@
       "code": 2,
       "max": 28.4,
       "min": 21.9
+    },
+    {
+      "day": "Paz",
+      "code": 2,
+      "max": 28.9,
+      "min": 22.8
     }
   ]
 }
