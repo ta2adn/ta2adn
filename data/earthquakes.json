@@ -1,9 +1,16 @@
 [
   {
+    "time": "22:17:55",
+    "magnitude": 4.2,
+    "location": "YUNANISTAN",
+    "depth": 14.7,
+    "ago": "58 dakika önce"
+  },
+  {
     "time": "11:30:47",
     "magnitude": 3.9,
     "location": "YUNANISTAN",
     "depth": 9.7,
-    "ago": "10 saat önce"
+    "ago": "11 saat önce"
   }
 ]
