@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 28.4,
-    "feels_like": 26.6,
-    "humidity": 39,
-    "wind_speed": 27.4,
+    "temperature": 26.9,
+    "feels_like": 24.5,
+    "humidity": 46,
+    "wind_speed": 26.3,
     "code": 0,
     "condition": "Açık"
   },
@@ -15,7 +15,7 @@
     "phase": "Dolunay",
     "illumination": 100,
     "icon": "🌕",
-    "waxing": true
+    "waxing": false
   },
   "daily": [
     {
