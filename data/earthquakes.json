@@ -1,9 +1,16 @@
 [
   {
+    "time": "02:00:19",
+    "magnitude": 3.9,
+    "location": "GUNLUCE ACIKLARI-MUGLA (AKDENIZ)",
+    "depth": 11.0,
+    "ago": "12 dakika önce"
+  },
+  {
     "time": "00:00:55",
     "magnitude": 3.8,
     "location": "GUNLUCE ACIKLARI-MUGLA (AKDENIZ)",
     "depth": 6.5,
-    "ago": "1 saat önce"
+    "ago": "2 saat önce"
   }
 ]
