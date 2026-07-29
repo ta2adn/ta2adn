@@ -1,15 +1,15 @@
 {
   "current": {
-    "temperature": 22.3,
+    "temperature": 22.1,
     "feels_like": 22.3,
-    "humidity": 65,
-    "wind_speed": 12.9,
+    "humidity": 67,
+    "wind_speed": 11.4,
     "code": 0,
     "condition": "Açık"
   },
   "sun": {
-    "sunrise": "05:57",
-    "sunset": "20:23"
+    "sunrise": "05:58",
+    "sunset": "20:22"
   },
   "moon": {
     "phase": "Dolunay",
@@ -19,22 +19,16 @@
   },
   "daily": [
     {
-      "day": "Çar",
-      "code": 2,
-      "max": 28.7,
-      "min": 22.4
-    },
-    {
       "day": "Per",
       "code": 2,
-      "max": 26.7,
-      "min": 20.7
+      "max": 26.9,
+      "min": 20.8
     },
     {
       "day": "Cum",
-      "code": 2,
-      "max": 27.5,
-      "min": 21.5
+      "code": 3,
+      "max": 27.6,
+      "min": 21.4
     },
     {
       "day": "Cmt",
@@ -44,9 +38,15 @@
     },
     {
       "day": "Paz",
-      "code": 3,
-      "max": 29.7,
+      "code": 2,
+      "max": 29.4,
       "min": 22.4
+    },
+    {
+      "day": "Pzt",
+      "code": 3,
+      "max": 29.6,
+      "min": 23.2
     }
   ]
 }
