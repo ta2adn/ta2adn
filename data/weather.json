@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 23.8,
+    "temperature": 23.2,
     "feels_like": 22.7,
-    "humidity": 62,
-    "wind_speed": 21.9,
+    "humidity": 65,
+    "wind_speed": 17.6,
     "code": 1,
     "condition": "Az bulutlu"
   },
@@ -13,14 +13,14 @@
   },
   "moon": {
     "phase": "Küçülen Ay",
-    "illumination": 99,
+    "illumination": 98,
     "icon": "🌖",
     "waxing": false
   },
   "daily": [
     {
       "day": "Per",
-      "code": 1,
+      "code": 2,
       "max": 27.0,
       "min": 20.8
     },
