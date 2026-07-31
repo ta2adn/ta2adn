@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 21.7,
-    "feels_like": 22.2,
-    "humidity": 69,
-    "wind_speed": 9.7,
+    "temperature": 21.3,
+    "feels_like": 21.8,
+    "humidity": 70,
+    "wind_speed": 10.0,
     "code": 1,
     "condition": "Az bulutlu"
   },
@@ -21,14 +21,14 @@
     {
       "day": "Cum",
       "code": 2,
-      "max": 27.7,
-      "min": 21.3
+      "max": 27.6,
+      "min": 21.2
     },
     {
       "day": "Cmt",
       "code": 2,
       "max": 28.5,
-      "min": 22.1
+      "min": 22.2
     },
     {
       "day": "Paz",
