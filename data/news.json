@@ -1,50 +1,44 @@
 [
   {
-    "time": "15:19",
-    "title": "Etimesgut Belediye Başkanı Beşikçioğlu'nun ifadesi ortaya çıktı. \"Behzat Ç.\" iddiasına yanıt verdi",
-    "description": "NTV Haber Etimesgut Belediye Başkanı Beşikçioğlu'nun ifadesi ortaya çıktı NTV Haber Edal Beşikçioğlu'nun ifadesi ortaya çıktı: Kendisi dahil 55 kişi adliyeye sevk edildi",
-    "source": "Google News"
-  },
-  {
-    "time": "08:59",
-    "title": "Trump İran'a planlanan saldırıları durdurduğunu açıkladı",
-    "description": "Bloomberght Trump, hızla bir anlaşma yapılması şartıyla İran'a saldırıları durdurduğunu söyledi BBC Körfez'in baskısı işe yaradı! Trump son dakika frene bastı: İşte saldırıların durmasının arka planı Hürriyet Suriye’den Irak’a sert…",
-    "source": "Google News"
-  },
-  {
-    "time": "12:22",
-    "title": "İspanya’ya Fas Göçü Altındaki ABD-İsrail Tezgâhı Kuşkusu",
-    "description": "Yetkin Report Ülkeye dönen Faslı göçmenlere taşlı müdahale! Görüntüler infial yarattı Haberler İsrail'e haddini bildirdi! Kaos üstüne kaos! Başına gelmeyen kalmadı Haber 7 İspanya, göçmenlere karşı deniz bariyeri kurdu NTV Haber…",
-    "source": "Google News"
-  },
-  {
-    "time": "13:56",
-    "title": "Vergi incelemelerinde yeni dönem! Mehmet Şimşek: \"Devrim niteliğinde\"",
-    "description": "CNN Türk Bakan Şimşek duyurdu! Vergi denetimlerinde yeni dönem başlıyor SonDakika Vergi incelemesine yeni uygulama. Mükellefe vergi incelemesi öncesi düzeltme imkanı verilecek NTV Haber Kayıt dışı paraya yeni uygulama freni Ajans04…",
-    "source": "Google News"
-  },
-  {
-    "time": "13:40",
-    "title": "Cumhurbaşkanı Erdoğan'a suikast timinde yer alan FETÖ'cü, MİT'in yüz tanıma sistemiyle tespit edildi",
-    "description": "aa.com.tr FETÖ'nün Marmaris suikast timindeki terörist, MİT'in yüz tanıma sistemiyle tespit edildi NTV Haber Cumhurbaşkanı Erdoğan'a suikast timindeki firari FETÖ'cü MİT'in yüz tanıma sisteminden kaçamadı Hürriyet Muğla'dan Afyon'a…",
+    "time": "17:15",
+    "title": "Yangın söndürme esnasında facia! İki helikopter havada çarpıştı",
+    "description": "Sözcü Gazetesi Son dakika... Yunanistan'da helikopterler havada çarpıştı Hürriyet Yunanistan'da orman yangınına müdahale sırasında feci kaza: İki helikopter havada çarpıştı Cumhuriyet Yunanistan'da iki itfaiye helikopteri havada…",
     "source": "Google News"
   },
   {
     "time": "13:20",
     "title": "Ermenistan'da Paşinyan hükümeti istifa etti",
-    "description": "Diken Google Haberler uygulamasında Daha fazla başlık ve perspektif göster",
+    "description": "Diken Ermenistan'da hükümetin istifasının ardından Paşinyan, yeniden başbakan olarak atandı TRT Haber Ermenistan'da hükümet, yeni seçilen parlamentonun ilk oturumunun başlamasıyla istifa etti Anadolu Ajansı Ermenistan'da hükümet istifa…",
+    "source": "Google News"
+  },
+  {
+    "time": "12:22",
+    "title": "İspanya’ya Fas Göçü Altındaki ABD-İsrail Tezgâhı Kuşkusu",
+    "description": "Yetkin Report Google Haberler uygulamasında Daha fazla başlık ve perspektif göster",
+    "source": "Google News"
+  },
+  {
+    "time": "13:40",
+    "title": "Cumhurbaşkanı Erdoğan'a suikast timinde yer alan FETÖ'cü, MİT'in yüz tanıma sistemiyle tespit edildi",
+    "description": "Anadolu Ajansı FETÖ'nün Marmaris suikast timindeki terörist, MİT'in yüz tanıma sistemiyle tespit edildi NTV Haber Suikastçı hain Burkay Karatepe'ye yardım eden kişi yakalandı Haber 7 Cumhurbaşkanı Erdoğan'a suikast timindeki firari…",
+    "source": "Google News"
+  },
+  {
+    "time": "13:40",
+    "title": "Etimesgut Belediye Başkanı Beşikçioğlu'nun ifadesi ortaya çıktı. \"Behzat Ç.\" iddiasına yanıt verdi",
+    "description": "NTV Haber Erdal Beşikçioğlu’nun emniyetteki ifadesi ortaya çıktı: İletişimim ve para transferim yok Hürriyet Erdal Beşikçioğlu'nun emniyet ifadesine ulaşıldı: \"Behzat Ç.\" iddiasına yanıt verdi birgun.net Erdal Beşikçioğlu aylık gelirini…",
+    "source": "Google News"
+  },
+  {
+    "time": "13:56",
+    "title": "Vergi incelemelerinde yeni dönem! Mehmet Şimşek: \"Devrim niteliğinde\"",
+    "description": "CNN Türk Bakan Şimşek duyurdu! Vergi denetimlerinde yeni dönem başlıyor Haberler Vergi incelemesine yeni uygulama. Mükellefe vergi incelemesi öncesi düzeltme imkanı verilecek NTV Haber Bakan Şimşek: Mükellefler vergi incelemesi…",
     "source": "Google News"
   },
   {
     "time": "07:25",
     "title": "Üsküdar Belediye Başkanı Sinem Dedetaş, kuyu tipi cezaevine konuldu",
-    "description": "T24 Dedetaş kuyu tipi cezaevine konuldu, görevinden alındı Sözcü Gazetesi Atı Üsküdar’dan geçirmeyen kadın birgun.net Sinem Dedetaş görevden alındı Hürriyet Üsküdar'da Belediye Başkan Vekili 5 Ağustos'ta seçilecek TRT Haber",
-    "source": "Google News"
-  },
-  {
-    "time": "10:55",
-    "title": "Şarkıcı Güllü'nün şüpheli ölümünde iddianameler hazır! Tuğyan Ülkem Gülter için ağırlaştırılmış müebbet talebi!",
-    "description": "CNN Türk Ses kayıtları çözülünce ortaya çıktı! Güllü'nün ölümünde şoke eden detaylar Sözcü Gazetesi Güllü iddianamesinde kan donduran detay: Annesini aşağı atıp 'dedektif oyunu' incelemiş SonDakika Güllü'nün ölümünde soruşturma…",
+    "description": "T24 Dedetaş kuyu tipi cezaevine konuldu, görevinden alındı Sözcü Gazetesi Sezgin Tanrıkulu, Sinem Dedetaş'ı ziyaret etti: Mesajını iletti birgun.net Üsküdar'da Belediye Başkan Vekili 5 Ağustos'ta seçilecek TRT Haber Sinem Dedetaş…",
     "source": "Google News"
   },
   {
@@ -54,33 +48,39 @@
     "source": "Google News"
   },
   {
-    "time": "09:11",
-    "title": "Bakırköy'de parkta uygunsuz davranışlarda bulunan 2 kişi yakalandı",
-    "description": "Hürriyet Parkta uygunsuz halde görüntülenen çift gözaltına alındı Sözcü Gazetesi Bakırköy'de genel adaba ve ahlaka aykırı davranan çifte gözaltı Habertürk Bir rezil görüntü daha! Önce Bakırköy şimdi Kocaeli SonDakika Bakırköy’de parkta…",
+    "time": "10:55",
+    "title": "Şarkıcı Güllü'nün şüpheli ölümünde iddianameler hazır! Tuğyan Ülkem Gülter için ağırlaştırılmış müebbet talebi!",
+    "description": "CNN Türk Ses kayıtları çözülünce ortaya çıktı! Güllü'nün ölümünde şoke eden detaylar Sözcü Gazetesi Güllü'nün ölümünde soruşturma tamamlandı! Tuğyan'la ilgili çok çarpıcı detay: Kullandığı cihazlardan çıktı | Özellikle o şarkıyı açmış…",
+    "source": "Google News"
+  },
+  {
+    "time": "07:04",
+    "title": "Terörsüz Türkiye ve ‘Bi xêr hatî aştî’*",
+    "description": "Sabah Çerçeve yasa için kritik hafta. Düzenlemede af anlamına gelebilecek hükümler olmayacak NTV Haber Kurtulmuş duyurdu: Süreç yasası teklifi haftaya Meclis'e geliyor Diken TBMM Başkanı Kurtulmuş: Terörsüz Türkiye meselesinde büyük bir…",
+    "source": "Google News"
+  },
+  {
+    "time": "08:59",
+    "title": "Trump İran'a planlanan saldırıları durdurduğunu açıkladı",
+    "description": "Bloomberght Trump, hızla bir anlaşma yapılması şartıyla İran'a saldırıları durdurduğunu söyledi BBC Körfez'in baskısı işe yaradı! Trump son dakika frene bastı: İşte saldırıların durmasının arka planı Hürriyet Suriye’den Irak’a sert…",
+    "source": "Google News"
+  },
+  {
+    "time": "11:35",
+    "title": "15 maddelik Gazze planı: Hamas silahsızlanacak, İsrail tamamen çekilecek, uluslararası istikrar gücü konuşlanacak",
+    "description": "T24 Haaretz: İsrail, Barış Kurulu'nun Gazze'de ateşkese ilişkin açıkladığı yol haritasında 3 maddeye itiraz etti Anadolu Ajansı FKÖ, Gazze'deki ateşkesin ikinci aşamasını memnuniyetle karşıladı TRT Haber Trump duyurdu: Gazze’de anlaşma…",
     "source": "Google News"
   },
   {
     "time": "09:50",
     "title": "Savaşın ortasında Hürmüz Boğazı'ndan kimler geçiyor?",
-    "description": "dw.com İran’dan olay yaratacak Hürmüz iddiası: Gözler ABD’ye çevrildi Sözcü Gazetesi İran basını: Hürmüz Boğazı’nın açılmasına yönelik anlaşma yapıldığı iddiaları gerçeği yansıtmıyor aa.com.tr ABD'den İran'ın Hürmüz Boğazı'nı kapattığı…",
+    "description": "DW.com İran’dan olay yaratacak Hürmüz iddiası: Gözler ABD’ye çevrildi Sözcü Gazetesi İran basını: Hürmüz Boğazı’nın açılmasına yönelik anlaşma yapıldığı iddiaları gerçeği yansıtmıyor Anadolu Ajansı ABD'den İran'ın Hürmüz Boğazı'nı…",
     "source": "Google News"
   },
   {
-    "time": "10:45",
-    "title": "Hindistan'da selde hayatını kaybedenlerin sayısı 82'ye yükseldi",
-    "description": "Haberler Hindistan'ın kuzeydoğusundaki sellerde can kaybı 82'ye yükseldi aa.com.tr Hindistan'da sel! 8 kişi hayatını kaybetti Haber 7 Assam’da Sel Felaketi: Can Kaybı 75’e Yükseldi Odatv Hindistan'da sel felaketi büyüyor! Can kaybı 75'e…",
-    "source": "Google News"
-  },
-  {
-    "time": "07:43",
-    "title": "SON DAKİKA | Masada ateşkes sahada katliam! Siyonist katil İsrail İlaç depolarını vurdu",
-    "description": "Sabah Soykırımcı İsrail Gazze'ye saldırdı: 2'si çocuk 8 Filistinli hayatını kaybetti TRT Haber Hamas ve İslami Cihad’dan İsrail’e Gazze’den çekilme çağrısı Hürriyet İsrail'in ateşkesi ihlal ederek Gazze'ye düzenlediği saldırılarda 3…",
-    "source": "Google News"
-  },
-  {
-    "time": "14:06",
-    "title": "Karadeniz’de İHA saldırısına uğrayan konteyner gemisi battı",
-    "description": "T24 Rosatom: Karadeniz’de İHA saldırısına uğrayan konteyner gemisi battı TRT Haber Ukrayna vurdu, Türkiye kurtardı Haber Denizde Ukrayna: Rusya'da Saratov Petrol Rafinerisi ile Engels Askeri Havaalanı'na saldırılar düzenledik aa.com.tr…",
+    "time": "06:53",
+    "title": "İsrail ateşkese rağmen Gazze'yi vurdu: 8 ölü",
+    "description": "Habertürk Soykırımcı İsrail Gazze'ye saldırdı: 2'si çocuk 8 Filistinli hayatını kaybetti TRT Haber AB Komisyonu üyesi Lahbib, İsrail'in Gazze'de ilaç depolarını bombalamasına tepki gösterdi Anadolu Ajansı Hamas ve İslami Cihad’dan…",
     "source": "Google News"
   },
   {
@@ -92,19 +92,19 @@
   {
     "time": "12:45",
     "title": "İstanbul’da temmuz ayının zam ve indirim şampiyonları belli oldu",
-    "description": "Bigpara İstanbul'da enflasyon Temmuz'da hızlandı Bloomberght İTO temmuzda fiyatı en çok artan ve azalan ürünleri açıkladı aa.com.tr İTO'ya göre İstanbul'da enflasyon yüzde 35,20: Fiyatı artanlar Diken İstanbul'da biber uçtu, kiraz düştü…",
+    "description": "Bigpara İstanbul'da enflasyon Temmuz'da hızlandı Bloomberght İstanbul'da biber uçtu, kiraz düştü Sözcü Gazetesi İTO'ya göre İstanbul'da enflasyon yüzde 35,20: Fiyatı artanlar Diken İstanbul'un temmuz enflasyonu belli oldu: En yüksek…",
     "source": "Google News"
   },
   {
     "time": "14:05",
     "title": "Ekonomist Filiz Eryılmaz altın yatırımcısına tüyoyu verdi!",
-    "description": "Sözcü Gazetesi FİYAT HABERLERİ 🔍 ALTIN FİYATLARI KAÇ TL?🔔 Bugün gram altın, çeyrek altın fiyatı ne kadar? İşte son güncel rakamlar Uzmanpara 2 Ağustos Pazar güncel altın fiyatları Evrensel.net Altını yeniden uçuracak iki senaryo!…",
+    "description": "Sözcü Gazetesi FİYAT HABERLERİ 🔍 ALTIN FİYATLARI KAÇ TL?🔔 Bugün gram altın, çeyrek altın fiyatı ne kadar? İşte son güncel rakamlar Uzmanpara Altının onsunda ibre 5 ay sonra ilk kez yukarı döndü Anadolu Ajansı 2 Ağustos Pazar güncel…",
     "source": "Google News"
   },
   {
-    "time": "10:53",
-    "title": "Türk bankası ABD'li şirkete satıldı",
-    "description": "Ege'de Sonsöz Google Haberler uygulamasında Daha fazla başlık ve perspektif göster",
+    "time": "07:45",
+    "title": "Akaryakıt fiyatlarında son durum: İşte 2 Ağustos 2026 güncel benzin, motorin ve LPG fiyatları",
+    "description": "Ekonomim Akaryakıtta yeni zam dalgası! Tabelalar bir kez daha değişiyor - Finans haberlerinin doğru adresi",
     "source": "Google News"
   }
 ]
