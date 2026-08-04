@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 26.7,
-    "feels_like": 28.0,
-    "humidity": 64,
-    "wind_speed": 14.5,
+    "temperature": 25.3,
+    "feels_like": 27.5,
+    "humidity": 72,
+    "wind_speed": 11.2,
     "code": 0,
     "condition": "Açık"
   },
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Küçülen Ay",
-    "illumination": 63,
+    "illumination": 62,
     "icon": "🌖",
     "waxing": false
   },
@@ -27,8 +27,8 @@
     {
       "day": "Çar",
       "code": 2,
-      "max": 30.9,
-      "min": 22.7
+      "max": 31.4,
+      "min": 23.0
     },
     {
       "day": "Per",
