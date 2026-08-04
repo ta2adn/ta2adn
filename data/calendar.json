@@ -42,6 +42,41 @@
     "all_day": false
   },
   {
+    "title": "Sultan",
+    "start": "2026-08-04T10:30:00+03:00",
+    "end": "2026-08-04T11:00:00+03:00",
+    "time": "10:30",
+    "all_day": false
+  },
+  {
+    "title": "Mikro Sunucu",
+    "start": "2026-08-04T11:00:00+03:00",
+    "end": "2026-08-04T11:30:00+03:00",
+    "time": "11:00",
+    "all_day": false
+  },
+  {
+    "title": "Cengizhan",
+    "start": "2026-08-04T11:30:00+03:00",
+    "end": "2026-08-04T12:00:00+03:00",
+    "time": "11:30",
+    "all_day": false
+  },
+  {
+    "title": "Neslihan",
+    "start": "2026-08-04T12:00:00+03:00",
+    "end": "2026-08-04T12:30:00+03:00",
+    "time": "12:00",
+    "all_day": false
+  },
+  {
+    "title": "Engin",
+    "start": "2026-08-04T12:30:00+03:00",
+    "end": "2026-08-04T13:00:00+03:00",
+    "time": "12:30",
+    "all_day": false
+  },
+  {
     "title": "Ablamlar Tekne Gezi - Şarköy",
     "start": "2026-08-06T00:00:00+03:00",
     "end": "2026-08-07T00:00:00+03:00",
