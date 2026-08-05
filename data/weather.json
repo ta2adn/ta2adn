@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 31.1,
-    "feels_like": 32.8,
-    "humidity": 45,
-    "wind_speed": 18.3,
+    "temperature": 30.8,
+    "feels_like": 32.6,
+    "humidity": 51,
+    "wind_speed": 20.9,
     "code": 0,
     "condition": "Açık"
   },
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Son Dördün",
-    "illumination": 56,
+    "illumination": 55,
     "icon": "🌗",
     "waxing": false
   },
@@ -21,14 +21,14 @@
     {
       "day": "Çar",
       "code": 2,
-      "max": 31.4,
+      "max": 31.2,
       "min": 23.1
     },
     {
       "day": "Per",
       "code": 2,
-      "max": 29.9,
-      "min": 22.3
+      "max": 29.4,
+      "min": 22.5
     },
     {
       "day": "Cum",
