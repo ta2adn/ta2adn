@@ -84,6 +84,27 @@
     "all_day": false
   },
   {
+    "title": "Neslihan",
+    "start": "2026-08-05T10:30:00+03:00",
+    "end": "2026-08-05T11:00:00+03:00",
+    "time": "10:30",
+    "all_day": false
+  },
+  {
+    "title": "Neslihan",
+    "start": "2026-08-05T11:00:00+03:00",
+    "end": "2026-08-05T11:30:00+03:00",
+    "time": "11:00",
+    "all_day": false
+  },
+  {
+    "title": "Truenas",
+    "start": "2026-08-05T11:30:00+03:00",
+    "end": "2026-08-05T12:00:00+03:00",
+    "time": "11:30",
+    "all_day": false
+  },
+  {
     "title": "Ablamlar Tekne Gezi - Şarköy",
     "start": "2026-08-06T00:00:00+03:00",
     "end": "2026-08-07T00:00:00+03:00",
