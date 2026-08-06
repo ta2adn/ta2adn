@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 29.8,
-    "feels_like": 32.4,
-    "humidity": 53,
-    "wind_speed": 17.8,
+    "temperature": 29.9,
+    "feels_like": 31.8,
+    "humidity": 54,
+    "wind_speed": 19.4,
     "code": 1,
     "condition": "Az bulutlu"
   },
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Son Dördün",
-    "illumination": 45,
+    "illumination": 44,
     "icon": "🌗",
     "waxing": false
   },
@@ -21,13 +21,13 @@
     {
       "day": "Per",
       "code": 2,
-      "max": 29.9,
+      "max": 30.0,
       "min": 23.1
     },
     {
       "day": "Cum",
       "code": 2,
-      "max": 29.9,
+      "max": 29.8,
       "min": 23.0
     },
     {
