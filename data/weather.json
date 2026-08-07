@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 24.2,
+    "temperature": 24.1,
     "feels_like": 28.1,
-    "humidity": 89,
-    "wind_speed": 7.6,
+    "humidity": 90,
+    "wind_speed": 7.2,
     "code": 2,
     "condition": "Parçalı bulutlu"
   },
@@ -21,32 +21,32 @@
     {
       "day": "Cmt",
       "code": 2,
-      "max": 31.2,
-      "min": 23.6
+      "max": 30.9,
+      "min": 23.5
     },
     {
       "day": "Paz",
-      "code": 2,
-      "max": 26.7,
-      "min": 24.1
+      "code": 3,
+      "max": 27.1,
+      "min": 23.9
     },
     {
       "day": "Pzt",
       "code": 2,
-      "max": 28.9,
-      "min": 23.4
+      "max": 29.0,
+      "min": 23.5
     },
     {
       "day": "Sal",
       "code": 2,
-      "max": 29.5,
-      "min": 23.8
+      "max": 29.8,
+      "min": 23.9
     },
     {
       "day": "Çar",
       "code": 2,
-      "max": 29.7,
-      "min": 23.1
+      "max": 30.0,
+      "min": 23.2
     }
   ]
 }
