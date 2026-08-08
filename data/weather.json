@@ -4,8 +4,8 @@
     "feels_like": 29.3,
     "humidity": 87,
     "wind_speed": 5.2,
-    "code": 2,
-    "condition": "Parçalı bulutlu"
+    "code": 1,
+    "condition": "Az bulutlu"
   },
   "sun": {
     "sunrise": "06:07",
