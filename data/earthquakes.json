@@ -1,9 +1,16 @@
 [
   {
+    "time": "15:06:53",
+    "magnitude": 3.6,
+    "location": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
+    "depth": 5.0,
+    "ago": "1 saat önce"
+  },
+  {
     "time": "03:42:16",
     "magnitude": 4.6,
     "location": "HAMIDIYE-NURDAGI (GAZIANTEP)",
     "depth": 9.2,
-    "ago": "11 saat önce"
+    "ago": "12 saat önce"
   }
 ]
