@@ -7,13 +7,6 @@
     "all_day": false
   },
   {
-    "title": "⚡ Formula E | London – Race 1 | Race – saat TBC",
-    "start": "2026-08-15T00:00:00+03:00",
-    "end": "2026-08-16T00:00:00+03:00",
-    "time": "Tüm gün",
-    "all_day": true
-  },
-  {
     "title": "⚡ Formula E | London – Race 1 | Qualifying – saat TBC",
     "start": "2026-08-15T00:00:00+03:00",
     "end": "2026-08-16T00:00:00+03:00",
@@ -21,14 +14,21 @@
     "all_day": true
   },
   {
-    "title": "⚡ Formula E | London – Race 2 | Qualifying – saat TBC",
+    "title": "⚡ Formula E | London – Race 1 | Race – saat TBC",
+    "start": "2026-08-15T00:00:00+03:00",
+    "end": "2026-08-16T00:00:00+03:00",
+    "time": "Tüm gün",
+    "all_day": true
+  },
+  {
+    "title": "⚡ Formula E | London – Race 2 | Race – saat TBC",
     "start": "2026-08-16T00:00:00+03:00",
     "end": "2026-08-17T00:00:00+03:00",
     "time": "Tüm gün",
     "all_day": true
   },
   {
-    "title": "⚡ Formula E | London – Race 2 | Race – saat TBC",
+    "title": "⚡ Formula E | London – Race 2 | Qualifying – saat TBC",
     "start": "2026-08-16T00:00:00+03:00",
     "end": "2026-08-17T00:00:00+03:00",
     "time": "Tüm gün",
