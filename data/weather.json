@@ -1,15 +1,15 @@
 {
   "current": {
-    "temperature": 23.8,
-    "feels_like": 26.2,
+    "temperature": 23.6,
+    "feels_like": 26.1,
     "humidity": 82,
-    "wind_speed": 11.3,
+    "wind_speed": 10.6,
     "code": 1,
     "condition": "Az bulutlu"
   },
   "sun": {
-    "sunrise": "06:09",
-    "sunset": "20:08"
+    "sunrise": "06:10",
+    "sunset": "20:07"
   },
   "moon": {
     "phase": "Küçülen Hilal",
@@ -18,12 +18,6 @@
     "waxing": false
   },
   "daily": [
-    {
-      "day": "Sal",
-      "code": 2,
-      "max": 28.2,
-      "min": 23.5
-    },
     {
       "day": "Çar",
       "code": 2,
@@ -47,6 +41,12 @@
       "code": 2,
       "max": 26.5,
       "min": 21.0
+    },
+    {
+      "day": "Paz",
+      "code": 3,
+      "max": 27.4,
+      "min": 21.6
     }
   ]
 }
