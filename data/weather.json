@@ -20,15 +20,15 @@
   "daily": [
     {
       "day": "Sal",
-      "code": 3,
-      "max": 28.7,
+      "code": 2,
+      "max": 28.9,
       "min": 23.8
     },
     {
       "day": "Çar",
       "code": 2,
       "max": 29.9,
-      "min": 23.0
+      "min": 23.1
     },
     {
       "day": "Per",
