@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 30.2,
-    "feels_like": 31.2,
-    "humidity": 46,
-    "wind_speed": 21.1,
+    "temperature": 30.4,
+    "feels_like": 30.9,
+    "humidity": 45,
+    "wind_speed": 22.1,
     "code": 0,
     "condition": "Açık"
   },
@@ -21,13 +21,13 @@
     {
       "day": "Çar",
       "code": 2,
-      "max": 30.2,
+      "max": 30.4,
       "min": 22.9
     },
     {
       "day": "Per",
       "code": 2,
-      "max": 28.9,
+      "max": 28.8,
       "min": 23.3
     },
     {
