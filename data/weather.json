@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 23.2,
-    "feels_like": 26.0,
+    "temperature": 23.0,
+    "feels_like": 26.1,
     "humidity": 84,
-    "wind_speed": 8.2,
-    "code": 1,
-    "condition": "Az bulutlu"
+    "wind_speed": 5.7,
+    "code": 0,
+    "condition": "Açık"
   },
   "sun": {
     "sunrise": "06:10",
@@ -21,8 +21,8 @@
     {
       "day": "Çar",
       "code": 2,
-      "max": 30.0,
-      "min": 22.8
+      "max": 30.1,
+      "min": 22.9
     },
     {
       "day": "Per",
