@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 24.4,
-    "feels_like": 26.3,
-    "humidity": 82,
-    "wind_speed": 17.6,
+    "temperature": 24.3,
+    "feels_like": 26.5,
+    "humidity": 85,
+    "wind_speed": 17.4,
     "code": 2,
     "condition": "Parçalı bulutlu"
   },
@@ -27,8 +27,8 @@
     {
       "day": "Per",
       "code": 2,
-      "max": 29.3,
-      "min": 23.3
+      "max": 29.8,
+      "min": 23.5
     },
     {
       "day": "Cum",
