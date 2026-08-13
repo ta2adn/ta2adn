@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 27.2,
-    "feels_like": 28.3,
-    "humidity": 69,
-    "wind_speed": 21.8,
-    "code": 2,
-    "condition": "Parçalı bulutlu"
+    "temperature": 28.3,
+    "feels_like": 29.9,
+    "humidity": 65,
+    "wind_speed": 23.7,
+    "code": 1,
+    "condition": "Az bulutlu"
   },
   "sun": {
     "sunrise": "06:11",
@@ -15,7 +15,7 @@
     "phase": "Yeni Ay",
     "illumination": 0,
     "icon": "🌑",
-    "waxing": false
+    "waxing": true
   },
   "daily": [
     {
