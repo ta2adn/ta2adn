@@ -4,13 +4,20 @@
     "magnitude": 4.0,
     "location": "GOKDERE-(AMASYA)",
     "depth": 5.0,
-    "ago": "12 saat önce"
+    "ago": "13 saat önce"
   },
   {
     "time": "05:33:54",
     "magnitude": 4.7,
     "location": "SURIYE",
     "depth": 2.3,
-    "ago": "20 saat önce"
+    "ago": "21 saat önce"
+  },
+  {
+    "time": "01:28:02",
+    "magnitude": 3.9,
+    "location": "IRAK",
+    "depth": 26.8,
+    "ago": "1 saat önce"
   }
 ]
