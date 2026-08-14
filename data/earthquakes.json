@@ -4,6 +4,13 @@
     "magnitude": 3.9,
     "location": "IRAK",
     "depth": 26.8,
-    "ago": "22 saat önce"
+    "ago": "23 saat önce"
+  },
+  {
+    "time": "00:01:23",
+    "magnitude": 3.7,
+    "location": "EGE DENIZI",
+    "depth": 5.6,
+    "ago": "36 dakika önce"
   }
 ]
