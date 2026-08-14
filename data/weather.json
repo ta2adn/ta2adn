@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 25.4,
-    "feels_like": 22.6,
-    "humidity": 48,
-    "wind_speed": 26.9,
+    "temperature": 25.0,
+    "feels_like": 22.3,
+    "humidity": 47,
+    "wind_speed": 24.6,
     "code": 2,
     "condition": "Parçalı bulutlu"
   },
