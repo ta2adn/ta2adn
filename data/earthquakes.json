@@ -1,9 +1,16 @@
 [
   {
+    "time": "06:42:14",
+    "magnitude": 3.5,
+    "location": "KOCAKORU-MUSTAFAKEMALPASA (BURSA)",
+    "depth": 7.0,
+    "ago": "19 dakika önce"
+  },
+  {
     "time": "00:01:23",
     "magnitude": 3.7,
     "location": "EGE DENIZI",
     "depth": 5.6,
-    "ago": "6 saat önce"
+    "ago": "7 saat önce"
   }
 ]
