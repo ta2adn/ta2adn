@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 24.0,
-    "feels_like": 22.5,
+    "temperature": 23.9,
+    "feels_like": 22.0,
     "humidity": 54,
-    "wind_speed": 18.7,
-    "code": 3,
-    "condition": "Kapalı"
+    "wind_speed": 22.2,
+    "code": 2,
+    "condition": "Parçalı bulutlu"
   },
   "sun": {
     "sunrise": "06:13",
@@ -20,15 +20,15 @@
   "daily": [
     {
       "day": "Cmt",
-      "code": 3,
-      "max": 27.4,
-      "min": 21.8
+      "code": 2,
+      "max": 27.2,
+      "min": 21.6
     },
     {
       "day": "Paz",
       "code": 3,
       "max": 27.5,
-      "min": 21.5
+      "min": 21.2
     },
     {
       "day": "Pzt",
