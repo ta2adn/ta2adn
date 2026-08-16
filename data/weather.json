@@ -1,7 +1,7 @@
 {
   "current": {
-    "temperature": 26.4,
-    "feels_like": 24.6,
+    "temperature": 26.3,
+    "feels_like": 24.5,
     "humidity": 49,
     "wind_speed": 22.8,
     "code": 3,
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Büyüyen Hilal",
-    "illumination": 11,
+    "illumination": 12,
     "icon": "🌒",
     "waxing": true
   },
