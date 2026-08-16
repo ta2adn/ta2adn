@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 20.6,
-    "feels_like": 20.8,
-    "humidity": 65,
-    "wind_speed": 6.9,
-    "code": 0,
-    "condition": "Açık"
+    "temperature": 21.0,
+    "feels_like": 21.1,
+    "humidity": 64,
+    "wind_speed": 7.9,
+    "code": 1,
+    "condition": "Az bulutlu"
   },
   "sun": {
     "sunrise": "06:14",
@@ -21,32 +21,32 @@
     {
       "day": "Paz",
       "code": 3,
-      "max": 27.3,
+      "max": 27.1,
       "min": 20.7
     },
     {
       "day": "Pzt",
-      "code": 3,
-      "max": 27.8,
-      "min": 20.6
+      "code": 2,
+      "max": 27.9,
+      "min": 21.3
     },
     {
       "day": "Sal",
       "code": 1,
-      "max": 28.6,
-      "min": 18.0
+      "max": 28.4,
+      "min": 18.2
     },
     {
       "day": "Çar",
-      "code": 3,
-      "max": 28.0,
-      "min": 21.8
+      "code": 1,
+      "max": 29.2,
+      "min": 22.3
     },
     {
       "day": "Per",
-      "code": 2,
-      "max": 29.4,
-      "min": 20.7
+      "code": 1,
+      "max": 30.3,
+      "min": 22.2
     }
   ]
 }
