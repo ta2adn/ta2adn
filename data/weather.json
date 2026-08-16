@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 24.2,
-    "feels_like": 23.0,
-    "humidity": 53,
-    "wind_speed": 17.4,
+    "temperature": 25.0,
+    "feels_like": 22.9,
+    "humidity": 49,
+    "wind_speed": 21.5,
     "code": 3,
     "condition": "Kapalı"
   },
