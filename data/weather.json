@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 23.3,
-    "feels_like": 24.6,
-    "humidity": 71,
-    "wind_speed": 10.6,
+    "temperature": 24.0,
+    "feels_like": 24.7,
+    "humidity": 66,
+    "wind_speed": 12.3,
     "code": 2,
     "condition": "Parçalı bulutlu"
   },
@@ -20,8 +20,8 @@
   "daily": [
     {
       "day": "Pzt",
-      "code": 2,
-      "max": 27.9,
+      "code": 3,
+      "max": 27.8,
       "min": 21.8
     },
     {
