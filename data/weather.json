@@ -1,11 +1,11 @@
 {
   "current": {
     "temperature": 28.6,
-    "feels_like": 29.1,
-    "humidity": 44,
-    "wind_speed": 17.6,
-    "code": 1,
-    "condition": "Az bulutlu"
+    "feels_like": 29.3,
+    "humidity": 45,
+    "wind_speed": 18.4,
+    "code": 2,
+    "condition": "Parçalı bulutlu"
   },
   "sun": {
     "sunrise": "06:17",
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Büyüyen Hilal",
-    "illumination": 36,
+    "illumination": 37,
     "icon": "🌒",
     "waxing": true
   },
