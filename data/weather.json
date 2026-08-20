@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 30.2,
-    "feels_like": 32.0,
-    "humidity": 47,
-    "wind_speed": 17.3,
+    "temperature": 30.3,
+    "feels_like": 31.6,
+    "humidity": 46,
+    "wind_speed": 18.5,
     "code": 0,
     "condition": "Açık"
   },
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "İlk Dördün",
-    "illumination": 47,
+    "illumination": 48,
     "icon": "🌓",
     "waxing": true
   },
