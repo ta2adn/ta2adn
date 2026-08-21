@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 28.1,
-    "feels_like": 28.4,
-    "humidity": 60,
-    "wind_speed": 22.8,
+    "temperature": 27.4,
+    "feels_like": 28.1,
+    "humidity": 64,
+    "wind_speed": 22.0,
     "code": 1,
     "condition": "Az bulutlu"
   },
@@ -12,9 +12,9 @@
     "sunset": "19:54"
   },
   "moon": {
-    "phase": "İlk Dördün",
-    "illumination": 59,
-    "icon": "🌓",
+    "phase": "Büyüyen Ay",
+    "illumination": 60,
+    "icon": "🌔",
     "waxing": true
   },
   "daily": [
