@@ -2,37 +2,7 @@
   {
     "time": "15:00",
     "title": "İmamoğlu'ndan İBB davasında sürpriz Karadeniz fıkrası",
-    "description": "T24 İBB Davası: Aziz İhsan Aktaş savunma yaptı, 'İBB'de sistem oluşturuldu' dedi soL Haber SON DAKİKA! İş insanı Hamit Demir mahkemede 8 milyonluk rüşveti itiraf etti! Ekrem İmamoğlu ile görüştü daireler Adem Soytekin'e gitti Sabah İBB…",
-    "source": "Google News"
-  },
-  {
-    "time": "18:26",
-    "title": "Kocaeli'de sahilde üç ceset bulundu",
-    "description": "Diken Bir ili bu gizemli olay konuşuyor! 3 kardeşin sır dolu ölümü: Kayıp kardeş bulundu Sözcü Gazetesi Acı ayrıntı ortaya çıktı... Darıca Sahili'nde bulunan 3 cesedin kimlikleri tespit edildi Cumhuriyet Sahilde dehşet. 3 kardeşin…",
-    "source": "Google News"
-  },
-  {
-    "time": "19:25",
-    "title": "İran'dan ABD'ye sert tepki: \"Ekonomik terörizm\"",
-    "description": "Bloomberght Trump'ın 'ekonomik çıkartması' İran'a ne kadar zarar verebilir? BBC ABD’den İran’a anakonda taktiği Hürriyet Vance: İran'a karşı en etkili aracımız \"ekonomik baskı\" Bloomberght ABD Hazine Bakanı Bessent: İran'a tarihin en…",
-    "source": "Google News"
-  },
-  {
-    "time": "14:50",
-    "title": "İstanbul Adalar'da deprem hareketliliği. Depremler ne ifade ediyor? Kandilli'den açıklama geldi",
-    "description": "NTV Haber Marmara’da deprem fırtınası Milliyet Prof. Dr. Naci Görür Medyascope'a konuştu: İstanbul’daki küçük depremler büyük depremin habercisi mi? Medyascope Marmara'daki 170'i aşkın depreme AFAD'dan inceleme: Büyük depremin habercisi…",
-    "source": "Google News"
-  },
-  {
-    "time": "10:31",
-    "title": "TEKNOFEST Mavi Vatan kapılarını açtı",
-    "description": "Anadolu Ajansı Millî Savunma Bakanı Yaşar Güler, Gölcük Tersanesi Komutanlığımızda Gerçekleştirilen TEKNOFEST Mavi Vatan’ın Açılış Törenine Katıldı Millî Savunma Bakanlığı Millî Savunma Bakanı Yaşar Güler, Gölcük’teki Donanma…",
-    "source": "Google News"
-  },
-  {
-    "time": "18:19",
-    "title": "Erdoğan: 3 bin genç araştırmacı bilim ve teknoloji ekosistemine kazandırılacak",
-    "description": "İnternet Haber Cumhurbaşkanı Erdoğan: 3 bin genç araştırmacı bilim ve teknoloji ekosistemine kazandırılacak Hürriyet SON DAKİKA HABERLER: Cumhurbaşkanı Erdoğan duyurdu! Yapay zeka ve çip teknolojilerinde yeni dönem Milliyet…",
+    "description": "T24 İş insanı Aziz İhsan Aktaş, “Sistemin temel amacı İmamoğlu'nun siyasi hayatının finanse edilmesidir” dedi; duruşma 15 saat sürdü T24 İBB Davası: Aziz İhsan Aktaş savunma yaptı, 'İBB'de sistem oluşturuldu' dedi soL Haber İş insanı…",
     "source": "Google News"
   },
   {
@@ -42,9 +12,39 @@
     "source": "Google News"
   },
   {
+    "time": "19:25",
+    "title": "İran'dan ABD'ye sert tepki: \"Ekonomik terörizm\"",
+    "description": "Bloomberght Trump'ın 'ekonomik çıkartması' İran'a ne kadar zarar verebilir? BBC Bessent ABD’nin İran’a ’tarihin en sert yaptırımlarını’ uygulayacağını söyledi Investing.com Türkiye Vance: İran'a karşı en etkili aracımız \"ekonomik baskı\"…",
+    "source": "Google News"
+  },
+  {
+    "time": "14:50",
+    "title": "İstanbul Adalar'da deprem hareketliliği. Depremler ne ifade ediyor? Kandilli'den açıklama geldi",
+    "description": "NTV Haber Marmara’da deprem fırtınası Milliyet Prof. Dr. Naci Görür Medyascope'a konuştu: İstanbul’daki küçük depremler büyük depremin habercisi mi? Medyascope Marmara'daki 170'i aşkın depreme AFAD'dan inceleme: Büyük depremin habercisi…",
+    "source": "Google News"
+  },
+  {
+    "time": "18:26",
+    "title": "Kocaeli'de sahilde üç ceset bulundu",
+    "description": "Diken Sahile cesetleri vuran üç kişi kardeş çıktı Sözcü Gazetesi Kocaeli sahilinde gizemli olay! 1 saat içinde 3 ceset bulunmuştu; kahreden gerçek ortaya çıktı Milliyet Kocaeli'de sahilde bulunan 3 cesedin kimlikleri tespit edildi…",
+    "source": "Google News"
+  },
+  {
+    "time": "10:31",
+    "title": "TEKNOFEST Mavi Vatan kapılarını açtı",
+    "description": "Anadolu Ajansı Millî Savunma Bakanı Yaşar Güler, Gölcük’teki Donanma Komutanlığımızda İnceleme ve Denetlemelerde Bulundu Millî Savunma Bakanlığı Teknofest’te Mavi Vatan görkemi Hürriyet TEKNOFEST Mavi Vatan'da Bayraktar KALKAN DİHA'nın…",
+    "source": "Google News"
+  },
+  {
+    "time": "07:56",
+    "title": "Ev alıp satacaklar dikkat: Zorunlu Deprem Sigortası'nda yıllardır uygulanan sistem değişti",
+    "description": "Sözcü Gazetesi Ev alıp satacak herkesi ilgilendiriyor! DASK’ta yeni dönem Uzmanpara DASK genel şartları değişti: Satış esnasında devir bitti, iptal ve iade geldi KARAR Ev alacak ve satacaklar dikkat. Zorunlu Deprem Sigortası'nda yeni…",
+    "source": "Google News"
+  },
+  {
     "time": "20:50",
     "title": "Ankara'da madencilere polis müdahalesi: 100 gözaltı!",
-    "description": "birgun.net Enerji Bakanlığı önünde eylem yapan 100 madenci gözaltına alındı Sözcü Gazetesi Madencinin ‘Bitmeyen Kavga’sı soL Haber Madenciler alacakları için eyleme devam ediyor: \"Çarptık böldük hesap tutmuyor\" Medyascope",
+    "description": "birgun.net Enerji Bakanlığı önünde eylem yapan 100 madenci gözaltına alındı Sözcü Gazetesi Aksu: Madenciler Ankara'dan ayrılmayacak Diken Madencinin ‘Bitmeyen Kavga’sı soL Haber",
     "source": "Google News"
   },
   {
@@ -54,15 +54,15 @@
     "source": "Google News"
   },
   {
-    "time": "22:26",
-    "title": "Ankara'da korkunç olay... Doktor tren raylarına atladı: Hayatını kaybetti",
-    "description": "Cumhuriyet Tren raylarına atlayan doktor yaşamını yitirdi NTV Haber Sincan'da Doktor Tren Raylarında Yaşamını Yitirdi Haberler Başkentray Sincan İstasyonu’nda üzücü olay; seferler gecikti gazeteilksayfa.com Sincan’da acı olay: Doktor…",
+    "time": "07:58",
+    "title": "Mazlum Abdi: ‘SDG'nin Suriye'ye entegrasyonu tamamlandı’",
+    "description": "Cumhuriyet Suriye’de dengeleri değiştirecek gelişme! SDG’nin Şam’a entegrasyonu tamalandı Haberler Resmen ilan edildi! SDG tasfiye oldu YPG dağılıyor Haber 7 Mazlum Abdi: SDG'nin entegrasyonu tamamlandı, yeni bir aşama başladı T24…",
     "source": "Google News"
   },
   {
     "time": "22:51",
     "title": "Alman ordusu asker toplamak için döner ambalajlarına reklam verdi",
-    "description": "Diken Dönercilerden asker toplamaya başladılar Sözcü Gazetesi Alman ordusundan döner ambalajlı askerlik kampanyası Bianet Alman ordusundan sıra dışı kariyer kampanyası: Döner ambalajlarına bastılar Yeni Şafak Alman Ordusu hedefini…",
+    "description": "Diken Dönercilerden asker toplamaya başladılar Sözcü Gazetesi Almanya ordusundan döner ambalajlı askerlik kampanyası Bianet Döner paketlerinden 'gizli çağrı' çıktı! Ülkede gören QR kodunu okutuyor Milliyet Alman Ordusu hedefini tutturdu…",
     "source": "Google News"
   },
   {
@@ -74,37 +74,37 @@
   {
     "time": "00:06",
     "title": "Sırra kadem basan Cumhurbaşkanı ortaya çıktı: 74 gün sonra ülkesine döndü",
-    "description": "Sözcü Gazetesi Kısa ziyaret 10 hafta sürdü! Cumhurbaşkanı sonunda ülkesine döndü Haber 7 Sırra kadem basmıştı: Kamerun Cumhurbaşkanı Biya 74 gün sonra ülkesine döndü Haberler 44 yıllık ülke lideri 74 gündür kayıptı: Cumhurbaşkanı…",
+    "description": "Sözcü Gazetesi Kısa ziyaret 10 hafta sürdü! Cumhurbaşkanı sonunda ülkesine döndü Haber 7 44 yıllık ülke lideri 74 gündür kayıptı: Cumhurbaşkanı sonunda ortaya çıktı Halk TV Kısa ziyaret 10 hafta sürdü: Kamerun Cumhurbaşkanı Biya 74 gün…",
     "source": "Google News"
   },
   {
-    "time": "11:14",
-    "title": "NATO'dan İran'a gözdağı: Hazırız",
-    "description": "Hürriyet Hedef liste ortaya çıktı! Plan genişliyor, kritik üs için alarm… ‘Bu çatışmanın niteliğini değiştirecek bir eşik’ Hürriyet NATO'dan İran'a sert uyarı: Gerekeni yaparız Sözcü Gazetesi İran Devrim Muhafızları: Yeni bir savaş…",
+    "time": "08:35",
+    "title": "Hedef liste ortaya çıktı! Plan genişliyor, kritik üs için alarm… ‘Bu çatışmanın niteliğini değiştirecek bir eşik’",
+    "description": "Hürriyet NATO'dan İran'a sert uyarı: Gerekeni yaparız Sözcü Gazetesi İran Devrim Muhafızları: Yeni bir savaş çıkarsa daha yıkıcı silahlar kullanacağız Anadolu Ajansı 'İran ABD'nin Avrupa'daki askeri varlıklarını vurmayı değerlendirdi'",
     "source": "Google News"
   },
   {
-    "time": "13:03",
-    "title": "İslam Memiş'ten gram altın tahmini: 7 bin TL için 'kısa vade' vurgusu",
-    "description": "Cumhuriyet Üç haftadır durmuyor: Altın 7 bin TL'yi aştı! Uzmanpara Altın doların zayıflamasıyla üçüncü haftalık yükselişine ilerliyor Bloomberght Altında yükseliş sürüyor! Altının gramı 7 bin lirayı geçti Habertürk 21 Ağustos Cuma Altın…",
+    "time": "19:44",
+    "title": "İslam Memiş Altın İçin Tahminini Paylaşarak Tarih Verdi: 8000 TL Beklentisini Koruyor",
+    "description": "Onedio Piyasalarda altın ateşi! Gram fiyatı kritik eşiği aştı Bigpara Üç haftadır durmuyor: Altın 7 bin TL'yi aştı! Uzmanpara Altın doların zayıflamasıyla üçüncü haftalık yükselişine ilerliyor Bloomberght Son dakika: Altın fiyatlarında…",
+    "source": "Google News"
+  },
+  {
+    "time": "07:01",
+    "title": "mRNA kanser aşısı umudu",
+    "description": "Milliyet Moderna mRNA kanser aşısında başarı açıkladı, şirketin değeri ikiye katlandı BBC Cilt kanserinde mRNA mucizesi Hürriyet Tempus AI hissesi bugün neden yükseliyor? Investing.com Türkiye Aşıdaki çığır açan gelişme, kanserin klinik…",
     "source": "Google News"
   },
   {
     "time": "13:42",
     "title": "ABD'nin tahvil geri alımları doları vuracak",
-    "description": "Bloomberght Amerika'nın dolar operasyonu 24 saatte patladı altın düşüşe geçti Sözcü Gazetesi Küresel piyasalarda pozitif fiyatlamalar öne çıkıyor Uzmanpara ABD Hazinesinin tahvillerdeki geri alım hamlesinin etkisinin kalıcı olması…",
+    "description": "Bloomberght Küresel piyasalarda pozitif fiyatlamalar öne çıkıyor Uzmanpara Fed için yeni sorun alanı: Tahvil geri alımları Bloomberght ABD'nin hamlesinin en büyük kurbanı dolar oldu: Doları bir bir bırakacaklar Sözcü Gazetesi ABD…",
     "source": "Google News"
   },
   {
     "time": "09:28",
     "title": "ABD'nin borçları 40 trilyon doları aştı",
     "description": "NTV Haber Fed tutanakları; ABD borcu 40 trilyon dolara ulaştı Investing.com Türkiye ABD’nin kamu borcu ilk kez 40 trilyon doları aştı Kurdistan24 ABD borcu 40 trilyon doları aştı, Hazine tahvil geri alımlarını ikiye katladı Euronews…",
-    "source": "Google News"
-  },
-  {
-    "time": "20:08",
-    "title": "Moderna mRNA kanser aşısında başarı açıkladı",
-    "description": "BBC Cilt kanserinde mRNA mucizesi Hürriyet Tempus AI hissesi bugün neden yükseliyor? Investing.com Türkiye Aşıdaki çığır açan gelişme, kanserin klinik denemelerde tekrarlamasını engelledi TRT Haber mRNA kanser aşısı umudu Milliyet",
     "source": "Google News"
   }
 ]
