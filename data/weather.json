@@ -1,15 +1,15 @@
 {
   "current": {
-    "temperature": 23.0,
-    "feels_like": 26.0,
+    "temperature": 22.9,
+    "feels_like": 25.9,
     "humidity": 84,
     "wind_speed": 5.9,
     "code": 1,
     "condition": "Az bulutlu"
   },
   "sun": {
-    "sunrise": "06:20",
-    "sunset": "19:52"
+    "sunrise": "06:21",
+    "sunset": "19:51"
   },
   "moon": {
     "phase": "Büyüyen Ay",
@@ -18,12 +18,6 @@
     "waxing": true
   },
   "daily": [
-    {
-      "day": "Cmt",
-      "code": 2,
-      "max": 29.4,
-      "min": 22.7
-    },
     {
       "day": "Paz",
       "code": 45,
@@ -47,6 +41,12 @@
       "code": 2,
       "max": 29.5,
       "min": 21.2
+    },
+    {
+      "day": "Per",
+      "code": 3,
+      "max": 26.8,
+      "min": 21.5
     }
   ]
 }
