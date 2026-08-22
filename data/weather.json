@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 23.0,
-    "feels_like": 26.1,
-    "humidity": 90,
-    "wind_speed": 9.9,
+    "temperature": 22.8,
+    "feels_like": 25.9,
+    "humidity": 89,
+    "wind_speed": 8.2,
     "code": 2,
     "condition": "Parçalı bulutlu"
   },
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Büyüyen Ay",
-    "illumination": 63,
+    "illumination": 64,
     "icon": "🌔",
     "waxing": true
   },
@@ -22,7 +22,7 @@
       "day": "Cmt",
       "code": 2,
       "max": 29.6,
-      "min": 22.8
+      "min": 22.6
     },
     {
       "day": "Paz",
