@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 29.1,
-    "feels_like": 32.3,
-    "humidity": 58,
-    "wind_speed": 13.6,
+    "temperature": 29.3,
+    "feels_like": 32.2,
+    "humidity": 56,
+    "wind_speed": 14.0,
     "code": 1,
     "condition": "Az bulutlu"
   },
