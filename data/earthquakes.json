@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "time": "21:43:51",
+    "magnitude": 4.1,
+    "location": "SALKONAK-YESILYURT (MALATYA)",
+    "depth": 5.0,
+    "ago": "25 dakika önce"
+  },
+  {
+    "time": "21:40:33",
+    "magnitude": 3.7,
+    "location": "SALKONAK-YESILYURT (MALATYA)",
+    "depth": 5.0,
+    "ago": "28 dakika önce"
+  }
+]
