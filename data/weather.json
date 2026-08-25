@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 23.9,
-    "feels_like": 25.6,
-    "humidity": 74,
-    "wind_speed": 11.2,
+    "temperature": 23.6,
+    "feels_like": 25.5,
+    "humidity": 75,
+    "wind_speed": 10.1,
     "code": 0,
     "condition": "Açık"
   },
