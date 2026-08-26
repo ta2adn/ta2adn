@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 22.7,
-    "feels_like": 24.8,
-    "humidity": 75,
-    "wind_speed": 5.1,
+    "temperature": 22.2,
+    "feels_like": 24.5,
+    "humidity": 76,
+    "wind_speed": 2.9,
     "code": 0,
     "condition": "Açık"
   },
@@ -28,7 +28,7 @@
       "day": "Per",
       "code": 2,
       "max": 29.9,
-      "min": 22.9
+      "min": 22.7
     },
     {
       "day": "Cum",
