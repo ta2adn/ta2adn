@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 23.7,
-    "feels_like": 26.7,
-    "humidity": 76,
-    "wind_speed": 3.0,
+    "temperature": 24.7,
+    "feels_like": 27.5,
+    "humidity": 71,
+    "wind_speed": 4.0,
     "code": 1,
     "condition": "Az bulutlu"
   },
@@ -22,13 +22,13 @@
       "day": "Çar",
       "code": 2,
       "max": 30.2,
-      "min": 21.5
+      "min": 21.3
     },
     {
       "day": "Per",
       "code": 2,
       "max": 29.3,
-      "min": 23.1
+      "min": 22.9
     },
     {
       "day": "Cum",
