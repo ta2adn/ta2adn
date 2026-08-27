@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 25.5,
-    "feels_like": 28.3,
-    "humidity": 72,
-    "wind_speed": 7.3,
+    "temperature": 24.3,
+    "feels_like": 25.7,
+    "humidity": 71,
+    "wind_speed": 12.0,
     "code": 1,
     "condition": "Az bulutlu"
   },
@@ -13,40 +13,40 @@
   },
   "moon": {
     "phase": "Dolunay",
-    "illumination": 99,
+    "illumination": 100,
     "icon": "🌕",
     "waxing": true
   },
   "daily": [
     {
       "day": "Per",
-      "code": 2,
-      "max": 29.4,
+      "code": 3,
+      "max": 29.6,
       "min": 22.8
     },
     {
       "day": "Cum",
       "code": 80,
-      "max": 24.8,
+      "max": 25.0,
       "min": 20.6
     },
     {
       "day": "Cmt",
       "code": 80,
-      "max": 24.6,
-      "min": 20.1
+      "max": 25.0,
+      "min": 20.0
     },
     {
       "day": "Paz",
-      "code": 2,
-      "max": 28.8,
-      "min": 21.4
+      "code": 3,
+      "max": 28.4,
+      "min": 20.6
     },
     {
       "day": "Pzt",
       "code": 2,
-      "max": 28.3,
-      "min": 20.4
+      "max": 28.0,
+      "min": 20.5
     }
   ]
 }
