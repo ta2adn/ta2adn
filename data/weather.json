@@ -1,52 +1,52 @@
 {
   "current": {
-    "temperature": 23.3,
-    "feels_like": 22.0,
-    "humidity": 65,
-    "wind_speed": 23.3,
-    "code": 2,
-    "condition": "Parçalı bulutlu"
+    "temperature": 20.3,
+    "feels_like": 21.4,
+    "humidity": 85,
+    "wind_speed": 11.4,
+    "code": 3,
+    "condition": "Kapalı"
   },
   "sun": {
-    "sunrise": "06:26",
-    "sunset": "19:43"
+    "sunrise": "06:27",
+    "sunset": "19:42"
   },
   "moon": {
-    "phase": "Dolunay",
-    "illumination": 100,
-    "icon": "🌕",
+    "phase": "Küçülen Ay",
+    "illumination": 99,
+    "icon": "🌖",
     "waxing": false
   },
   "daily": [
     {
-      "day": "Cum",
-      "code": 3,
-      "max": 25.0,
-      "min": 20.6
-    },
-    {
       "day": "Cmt",
       "code": 3,
       "max": 24.9,
-      "min": 20.2
+      "min": 20.1
     },
     {
       "day": "Paz",
       "code": 3,
-      "max": 29.1,
-      "min": 20.9
+      "max": 28.4,
+      "min": 20.1
     },
     {
       "day": "Pzt",
       "code": 2,
-      "max": 28.7,
-      "min": 20.4
+      "max": 29.1,
+      "min": 21.1
     },
     {
       "day": "Sal",
-      "code": 3,
-      "max": 28.8,
-      "min": 20.4
+      "code": 1,
+      "max": 29.1,
+      "min": 20.3
+    },
+    {
+      "day": "Çar",
+      "code": 1,
+      "max": 29.0,
+      "min": 20.5
     }
   ]
 }
