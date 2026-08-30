@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 24.1,
-    "feels_like": 25.9,
-    "humidity": 77,
-    "wind_speed": 13.2,
-    "code": 3,
-    "condition": "Kapalı"
+    "temperature": 23.2,
+    "feels_like": 25.7,
+    "humidity": 80,
+    "wind_speed": 7.1,
+    "code": 2,
+    "condition": "Parçalı bulutlu"
   },
   "sun": {
     "sunrise": "06:28",
@@ -27,8 +27,8 @@
     {
       "day": "Pzt",
       "code": 3,
-      "max": 28.5,
-      "min": 21.5
+      "max": 28.9,
+      "min": 21.6
     },
     {
       "day": "Sal",
