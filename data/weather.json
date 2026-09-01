@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 22.1,
-    "feels_like": 24.5,
+    "temperature": 21.5,
+    "feels_like": 23.6,
     "humidity": 83,
-    "wind_speed": 6.8,
+    "wind_speed": 7.1,
     "code": 1,
     "condition": "Az bulutlu"
   },
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Küçülen Ay",
-    "illumination": 84,
+    "illumination": 83,
     "icon": "🌖",
     "waxing": false
   },
@@ -21,14 +21,14 @@
     {
       "day": "Sal",
       "code": 2,
-      "max": 29.2,
+      "max": 29.1,
       "min": 21.3
     },
     {
       "day": "Çar",
       "code": 2,
       "max": 29.2,
-      "min": 21.0
+      "min": 21.1
     },
     {
       "day": "Per",
