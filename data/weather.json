@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 21.7,
-    "feels_like": 23.9,
-    "humidity": 81,
-    "wind_speed": 6.1,
-    "code": 0,
-    "condition": "Açık"
+    "temperature": 21.8,
+    "feels_like": 24.2,
+    "humidity": 82,
+    "wind_speed": 4.8,
+    "code": 2,
+    "condition": "Parçalı bulutlu"
   },
   "sun": {
     "sunrise": "06:31",
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Küçülen Ay",
-    "illumination": 75,
+    "illumination": 73,
     "icon": "🌖",
     "waxing": false
   },
@@ -22,31 +22,31 @@
       "day": "Çar",
       "code": 2,
       "max": 29.1,
-      "min": 20.9
+      "min": 21.0
     },
     {
       "day": "Per",
       "code": 3,
-      "max": 28.0,
-      "min": 20.8
+      "max": 28.5,
+      "min": 20.9
     },
     {
       "day": "Cum",
       "code": 3,
-      "max": 27.7,
-      "min": 21.4
+      "max": 27.4,
+      "min": 21.8
     },
     {
       "day": "Cmt",
-      "code": 2,
-      "max": 28.5,
-      "min": 20.7
+      "code": 45,
+      "max": 30.7,
+      "min": 19.0
     },
     {
       "day": "Paz",
-      "code": 2,
-      "max": 29.9,
-      "min": 20.3
+      "code": 0,
+      "max": 31.6,
+      "min": 21.7
     }
   ]
 }
