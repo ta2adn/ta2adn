@@ -1,9 +1,16 @@
 [
   {
+    "time": "20:11:04",
+    "magnitude": 3.9,
+    "location": "ALTINTAS-KALECIK (ANKARA)",
+    "depth": 5.0,
+    "ago": "2 saat önce"
+  },
+  {
     "time": "13:20:47",
     "magnitude": 3.8,
     "location": "DUZLEN-(MANISA)",
     "depth": 14.8,
-    "ago": "6 saat önce"
+    "ago": "9 saat önce"
   }
 ]
