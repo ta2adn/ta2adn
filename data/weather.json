@@ -1,19 +1,19 @@
 {
   "current": {
-    "temperature": 23.7,
-    "feels_like": 25.3,
-    "humidity": 79,
-    "wind_speed": 14.8,
-    "code": 2,
-    "condition": "Parçalı bulutlu"
+    "temperature": 22.7,
+    "feels_like": 24.0,
+    "humidity": 77,
+    "wind_speed": 12.6,
+    "code": 0,
+    "condition": "Açık"
   },
   "sun": {
     "sunrise": "06:35",
-    "sunset": "19:28"
+    "sunset": "19:29"
   },
   "moon": {
     "phase": "Küçülen Hilal",
-    "illumination": 27,
+    "illumination": 26,
     "icon": "🌘",
     "waxing": false
   },
@@ -27,8 +27,8 @@
     {
       "day": "Pzt",
       "code": 2,
-      "max": 26.2,
-      "min": 20.0
+      "max": 26.5,
+      "min": 20.2
     },
     {
       "day": "Sal",
