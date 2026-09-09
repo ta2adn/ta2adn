@@ -1,19 +1,19 @@
 {
   "current": {
-    "temperature": 26.5,
-    "feels_like": 25.6,
-    "humidity": 49,
-    "wind_speed": 23.1,
+    "temperature": 24.0,
+    "feels_like": 22.6,
+    "humidity": 60,
+    "wind_speed": 22.4,
     "code": 1,
     "condition": "Az bulutlu"
   },
   "sun": {
     "sunrise": "06:38",
-    "sunset": "19:24"
+    "sunset": "19:23"
   },
   "moon": {
     "phase": "Küçülen Hilal",
-    "illumination": 6,
+    "illumination": 5,
     "icon": "🌘",
     "waxing": false
   },
@@ -27,8 +27,8 @@
     {
       "day": "Per",
       "code": 2,
-      "max": 27.3,
-      "min": 20.0
+      "max": 27.2,
+      "min": 19.8
     },
     {
       "day": "Cum",
