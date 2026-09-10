@@ -70,13 +70,6 @@
     "all_day": false
   },
   {
-    "title": "🏁 FIA FORMULA 2: The Championship Spain 2026 - Race (TBC)",
-    "start": "2026-09-13T00:00:00+03:00",
-    "end": "2026-09-14T00:00:00+03:00",
-    "time": "Tüm gün",
-    "all_day": true
-  },
-  {
     "title": "🌲 WRC | Rally Chile Bio Bío | Power Stage – saat TBC",
     "start": "2026-09-13T00:00:00+03:00",
     "end": "2026-09-14T00:00:00+03:00",
@@ -84,14 +77,21 @@
     "all_day": true
   },
   {
-    "title": "[MotoGP] San Marino – Grand Prix",
+    "title": "🏁 FIA FORMULA 2: The Championship Spain 2026 - Race (TBC)",
+    "start": "2026-09-13T00:00:00+03:00",
+    "end": "2026-09-14T00:00:00+03:00",
+    "time": "Tüm gün",
+    "all_day": true
+  },
+  {
+    "title": "🏁 FORMULA 1 TAG HEUER GRAN PREMIO DE ESPAÑA 2026 - Race",
     "start": "2026-09-13T16:00:00+03:00",
     "end": "2026-09-13T18:00:00+03:00",
     "time": "16:00",
     "all_day": false
   },
   {
-    "title": "🏁 FORMULA 1 TAG HEUER GRAN PREMIO DE ESPAÑA 2026 - Race",
+    "title": "[MotoGP] San Marino – Grand Prix",
     "start": "2026-09-13T16:00:00+03:00",
     "end": "2026-09-13T18:00:00+03:00",
     "time": "16:00",
