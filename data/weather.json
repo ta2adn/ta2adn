@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 22.3,
-    "feels_like": 23.7,
-    "humidity": 80,
-    "wind_speed": 12.3,
-    "code": 1,
-    "condition": "Az bulutlu"
+    "temperature": 21.3,
+    "feels_like": 23.4,
+    "humidity": 84,
+    "wind_speed": 7.1,
+    "code": 2,
+    "condition": "Parçalı bulutlu"
   },
   "sun": {
     "sunrise": "06:39",
