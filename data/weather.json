@@ -1,7 +1,7 @@
 {
   "current": {
-    "temperature": 20.8,
-    "feels_like": 22.7,
+    "temperature": 20.6,
+    "feels_like": 22.4,
     "humidity": 86,
     "wind_speed": 7.6,
     "code": 1,
@@ -12,9 +12,9 @@
     "sunset": "19:20"
   },
   "moon": {
-    "phase": "Küçülen Hilal",
+    "phase": "Yeni Ay",
     "illumination": 1,
-    "icon": "🌘",
+    "icon": "🌑",
     "waxing": false
   },
   "daily": [
@@ -22,7 +22,7 @@
       "day": "Cum",
       "code": 2,
       "max": 27.9,
-      "min": 20.3
+      "min": 20.4
     },
     {
       "day": "Cmt",
