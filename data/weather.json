@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 21.3,
-    "feels_like": 22.5,
-    "humidity": 79,
-    "wind_speed": 10.6,
-    "code": 3,
-    "condition": "Kapalı"
+    "temperature": 20.6,
+    "feels_like": 22.3,
+    "humidity": 84,
+    "wind_speed": 7.1,
+    "code": 1,
+    "condition": "Az bulutlu"
   },
   "sun": {
     "sunrise": "06:41",
