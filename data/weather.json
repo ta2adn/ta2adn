@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 19.6,
-    "feels_like": 21.1,
-    "humidity": 83,
-    "wind_speed": 5.4,
-    "code": 3,
-    "condition": "Kapalı"
+    "temperature": 19.3,
+    "feels_like": 20.0,
+    "humidity": 85,
+    "wind_speed": 11.1,
+    "code": 2,
+    "condition": "Parçalı bulutlu"
   },
   "sun": {
     "sunrise": "06:43",
@@ -21,32 +21,32 @@
     {
       "day": "Pzt",
       "code": 3,
-      "max": 23.8,
-      "min": 18.8
+      "max": 23.7,
+      "min": 18.7
     },
     {
       "day": "Sal",
       "code": 3,
-      "max": 24.1,
-      "min": 16.9
+      "max": 24.2,
+      "min": 17.1
     },
     {
       "day": "Çar",
-      "code": 3,
-      "max": 23.4,
-      "min": 19.0
-    },
-    {
-      "day": "Per",
-      "code": 2,
-      "max": 24.9,
+      "code": 61,
+      "max": 21.3,
       "min": 18.0
     },
     {
+      "day": "Per",
+      "code": 61,
+      "max": 22.4,
+      "min": 17.7
+    },
+    {
       "day": "Cum",
-      "code": 2,
-      "max": 24.6,
-      "min": 17.5
+      "code": 3,
+      "max": 23.5,
+      "min": 19.9
     }
   ]
 }
