@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 19.0,
-    "feels_like": 18.9,
-    "humidity": 76,
-    "wind_speed": 11.1,
+    "temperature": 20.5,
+    "feels_like": 19.9,
+    "humidity": 68,
+    "wind_speed": 13.8,
     "code": 3,
     "condition": "Kapalı"
   },
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Büyüyen Hilal",
-    "illumination": 19,
+    "illumination": 21,
     "icon": "🌒",
     "waxing": true
   },
@@ -21,26 +21,26 @@
     {
       "day": "Çar",
       "code": 61,
-      "max": 21.1,
-      "min": 18.1
+      "max": 21.3,
+      "min": 18.8
     },
     {
       "day": "Per",
       "code": 61,
-      "max": 21.8,
+      "max": 21.2,
       "min": 17.7
     },
     {
       "day": "Cum",
       "code": 3,
-      "max": 24.6,
-      "min": 17.9
+      "max": 24.0,
+      "min": 17.6
     },
     {
       "day": "Cmt",
       "code": 2,
-      "max": 26.5,
-      "min": 18.2
+      "max": 25.8,
+      "min": 17.3
     },
     {
       "day": "Paz",
