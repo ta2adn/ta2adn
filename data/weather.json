@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 22.2,
-    "feels_like": 21.1,
-    "humidity": 62,
-    "wind_speed": 17.4,
+    "temperature": 23.2,
+    "feels_like": 22.4,
+    "humidity": 56,
+    "wind_speed": 14.4,
     "code": 3,
     "condition": "Kapalı"
   },
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "İlk Dördün",
-    "illumination": 41,
+    "illumination": 43,
     "icon": "🌓",
     "waxing": true
   },
@@ -28,7 +28,7 @@
       "day": "Cmt",
       "code": 3,
       "max": 25.6,
-      "min": 17.6
+      "min": 17.5
     },
     {
       "day": "Paz",
