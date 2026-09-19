@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 17.9,
-    "feels_like": 19.1,
-    "humidity": 87,
-    "wind_speed": 4.6,
-    "code": 3,
-    "condition": "Kapalı"
+    "temperature": 24.5,
+    "feels_like": 24.4,
+    "humidity": 54,
+    "wind_speed": 11.2,
+    "code": 2,
+    "condition": "Parçalı bulutlu"
   },
   "sun": {
     "sunrise": "06:48",
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "İlk Dördün",
-    "illumination": 50,
+    "illumination": 52,
     "icon": "🌓",
     "waxing": true
   },
