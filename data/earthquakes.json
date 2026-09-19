@@ -4,20 +4,27 @@
     "magnitude": 3.6,
     "location": "EGE DENIZI",
     "depth": 15.7,
-    "ago": "13 saat önce"
+    "ago": "17 saat önce"
   },
   {
     "time": "21:09:39",
     "magnitude": 3.8,
     "location": "KUSADASI KORFEZI (EGE DENIZI)",
     "depth": 8.1,
-    "ago": "14 saat önce"
+    "ago": "18 saat önce"
+  },
+  {
+    "time": "12:55:59",
+    "magnitude": 4.2,
+    "location": "YUNANISTAN",
+    "depth": 2.9,
+    "ago": "3 saat önce"
   },
   {
     "time": "01:11:56",
     "magnitude": 4.0,
     "location": "YUNANISTAN",
     "depth": 21.8,
-    "ago": "10 saat önce"
+    "ago": "14 saat önce"
   }
 ]
