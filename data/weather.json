@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 19.4,
-    "feels_like": 20.8,
-    "humidity": 82,
-    "wind_speed": 5.0,
-    "code": 0,
-    "condition": "Açık"
+    "temperature": 18.7,
+    "feels_like": 20.1,
+    "humidity": 85,
+    "wind_speed": 4.2,
+    "code": 1,
+    "condition": "Az bulutlu"
   },
   "sun": {
     "sunrise": "06:50",
@@ -21,13 +21,13 @@
     {
       "day": "Pzt",
       "code": 3,
-      "max": 25.6,
+      "max": 25.9,
       "min": 17.6
     },
     {
       "day": "Sal",
       "code": 80,
-      "max": 20.8,
+      "max": 20.9,
       "min": 16.7
     },
     {
