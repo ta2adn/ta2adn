@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 16.9,
-    "feels_like": 16.4,
-    "humidity": 88,
-    "wind_speed": 14.8,
-    "code": 80,
-    "condition": "Sağanak"
+    "temperature": 15.9,
+    "feels_like": 14.0,
+    "humidity": 84,
+    "wind_speed": 19.9,
+    "code": 3,
+    "condition": "Kapalı"
   },
   "sun": {
     "sunrise": "06:52",
@@ -21,32 +21,32 @@
     {
       "day": "Çar",
       "code": 80,
-      "max": 17.3,
-      "min": 13.7
+      "max": 17.0,
+      "min": 13.8
     },
     {
       "day": "Per",
-      "code": 2,
-      "max": 19.8,
-      "min": 12.1
+      "code": 3,
+      "max": 19.3,
+      "min": 12.8
     },
     {
       "day": "Cum",
       "code": 3,
-      "max": 22.8,
-      "min": 13.2
+      "max": 22.7,
+      "min": 12.3
     },
     {
       "day": "Cmt",
       "code": 3,
-      "max": 26.1,
-      "min": 16.0
+      "max": 24.6,
+      "min": 15.3
     },
     {
       "day": "Paz",
       "code": 3,
-      "max": 24.3,
-      "min": 19.4
+      "max": 24.0,
+      "min": 19.3
     }
   ]
 }
