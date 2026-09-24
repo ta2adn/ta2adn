@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 18.1,
-    "feels_like": 16.8,
-    "humidity": 70,
-    "wind_speed": 13.7,
-    "code": 3,
-    "condition": "Kapalı"
+    "temperature": 19.7,
+    "feels_like": 19.0,
+    "humidity": 53,
+    "wind_speed": 4.2,
+    "code": 1,
+    "condition": "Az bulutlu"
   },
   "sun": {
     "sunrise": "06:53",
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Büyüyen Ay",
-    "illumination": 95,
+    "illumination": 96,
     "icon": "🌔",
     "waxing": true
   },
@@ -21,14 +21,14 @@
     {
       "day": "Per",
       "code": 3,
-      "max": 19.5,
+      "max": 19.9,
       "min": 13.3
     },
     {
       "day": "Cum",
       "code": 3,
-      "max": 22.8,
-      "min": 12.2
+      "max": 22.9,
+      "min": 12.3
     },
     {
       "day": "Cmt",
