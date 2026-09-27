@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 17.7,
-    "feels_like": 17.2,
-    "humidity": 90,
-    "wind_speed": 17.6,
-    "code": 61,
-    "condition": "Yağmurlu"
+    "temperature": 18.0,
+    "feels_like": 17.5,
+    "humidity": 88,
+    "wind_speed": 17.9,
+    "code": 80,
+    "condition": "Sağanak"
   },
   "sun": {
     "sunrise": "06:57",
@@ -21,32 +21,32 @@
     {
       "day": "Pzt",
       "code": 80,
-      "max": 19.2,
-      "min": 17.6
+      "max": 19.8,
+      "min": 18.0
     },
     {
       "day": "Sal",
-      "code": 95,
-      "max": 20.5,
+      "code": 61,
+      "max": 20.2,
       "min": 17.2
     },
     {
       "day": "Çar",
-      "code": 80,
-      "max": 18.6,
-      "min": 16.5
+      "code": 63,
+      "max": 19.8,
+      "min": 16.9
     },
     {
       "day": "Per",
-      "code": 80,
-      "max": 19.2,
-      "min": 15.1
+      "code": 3,
+      "max": 20.3,
+      "min": 15.9
     },
     {
       "day": "Cum",
-      "code": 61,
-      "max": 17.1,
-      "min": 14.8
+      "code": 3,
+      "max": 20.8,
+      "min": 15.3
     }
   ]
 }
