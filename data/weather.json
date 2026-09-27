@@ -1,15 +1,15 @@
 {
   "current": {
-    "temperature": 18.1,
-    "feels_like": 17.4,
-    "humidity": 88,
-    "wind_speed": 18.6,
-    "code": 80,
-    "condition": "Sağanak"
+    "temperature": 17.7,
+    "feels_like": 17.2,
+    "humidity": 90,
+    "wind_speed": 17.6,
+    "code": 61,
+    "condition": "Yağmurlu"
   },
   "sun": {
-    "sunrise": "06:56",
-    "sunset": "18:53"
+    "sunrise": "06:57",
+    "sunset": "18:51"
   },
   "moon": {
     "phase": "Küçülen Ay",
@@ -18,12 +18,6 @@
     "waxing": false
   },
   "daily": [
-    {
-      "day": "Paz",
-      "code": 80,
-      "max": 21.9,
-      "min": 18.0
-    },
     {
       "day": "Pzt",
       "code": 80,
@@ -47,6 +41,12 @@
       "code": 80,
       "max": 19.2,
       "min": 15.1
+    },
+    {
+      "day": "Cum",
+      "code": 61,
+      "max": 17.1,
+      "min": 14.8
     }
   ]
 }
