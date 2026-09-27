@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 19.5,
-    "feels_like": 18.8,
-    "humidity": 81,
-    "wind_speed": 19.5,
+    "temperature": 19.0,
+    "feels_like": 18.6,
+    "humidity": 85,
+    "wind_speed": 17.9,
     "code": 80,
     "condition": "Sağanak"
   },
@@ -12,41 +12,41 @@
     "sunset": "18:53"
   },
   "moon": {
-    "phase": "Dolunay",
+    "phase": "Küçülen Ay",
     "illumination": 99,
-    "icon": "🌕",
+    "icon": "🌖",
     "waxing": false
   },
   "daily": [
     {
       "day": "Paz",
       "code": 80,
-      "max": 19.7,
-      "min": 17.7
+      "max": 20.7,
+      "min": 18.0
     },
     {
       "day": "Pzt",
       "code": 80,
-      "max": 19.8,
-      "min": 17.4
+      "max": 19.9,
+      "min": 17.6
     },
     {
       "day": "Sal",
       "code": 95,
-      "max": 18.1,
-      "min": 17.2
+      "max": 19.3,
+      "min": 17.3
     },
     {
       "day": "Çar",
       "code": 80,
-      "max": 19.2,
-      "min": 17.3
+      "max": 20.0,
+      "min": 17.4
     },
     {
       "day": "Per",
-      "code": 80,
-      "max": 20.8,
-      "min": 15.5
+      "code": 3,
+      "max": 20.5,
+      "min": 17.4
     }
   ]
 }
