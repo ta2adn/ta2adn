@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 18.0,
-    "feels_like": 17.5,
-    "humidity": 88,
-    "wind_speed": 17.9,
-    "code": 80,
-    "condition": "Sağanak"
+    "temperature": 18.2,
+    "feels_like": 16.7,
+    "humidity": 85,
+    "wind_speed": 23.8,
+    "code": 61,
+    "condition": "Yağmurlu"
   },
   "sun": {
     "sunrise": "06:57",
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Küçülen Ay",
-    "illumination": 98,
+    "illumination": 97,
     "icon": "🌖",
     "waxing": false
   },
@@ -21,32 +21,32 @@
     {
       "day": "Pzt",
       "code": 80,
-      "max": 19.8,
+      "max": 19.6,
       "min": 18.0
     },
     {
       "day": "Sal",
-      "code": 61,
-      "max": 20.2,
-      "min": 17.2
+      "code": 95,
+      "max": 18.9,
+      "min": 17.6
     },
     {
       "day": "Çar",
-      "code": 63,
-      "max": 19.8,
-      "min": 16.9
+      "code": 95,
+      "max": 21.5,
+      "min": 17.2
     },
     {
       "day": "Per",
       "code": 3,
-      "max": 20.3,
-      "min": 15.9
+      "max": 20.9,
+      "min": 16.7
     },
     {
       "day": "Cum",
-      "code": 3,
-      "max": 20.8,
-      "min": 15.3
+      "code": 2,
+      "max": 19.9,
+      "min": 15.9
     }
   ]
 }
