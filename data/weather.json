@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 17.7,
-    "feels_like": 17.8,
-    "humidity": 91,
-    "wind_speed": 13.4,
-    "code": 61,
-    "condition": "Yağmurlu"
+    "temperature": 17.3,
+    "feels_like": 17.4,
+    "humidity": 89,
+    "wind_speed": 11.9,
+    "code": 3,
+    "condition": "Kapalı"
   },
   "sun": {
     "sunrise": "06:59",
@@ -13,16 +13,16 @@
   },
   "moon": {
     "phase": "Küçülen Ay",
-    "illumination": 88,
+    "illumination": 87,
     "icon": "🌖",
     "waxing": false
   },
   "daily": [
     {
       "day": "Çar",
-      "code": 80,
+      "code": 63,
       "max": 20.7,
-      "min": 17.0
+      "min": 17.1
     },
     {
       "day": "Per",
