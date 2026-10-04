@@ -1,9 +1,30 @@
 [
   {
+    "time": "14:43:20",
+    "magnitude": 5.1,
+    "location": "AYVACIK-SAIMBEYLI (ADANA)",
+    "depth": 5.0,
+    "ago": "2 saat önce"
+  },
+  {
+    "time": "14:36:23",
+    "magnitude": 4.8,
+    "location": "AYVACIK-SAIMBEYLI (ADANA)",
+    "depth": 5.0,
+    "ago": "2 saat önce"
+  },
+  {
+    "time": "14:19:22",
+    "magnitude": 4.8,
+    "location": "AYVACIK-SAIMBEYLI (ADANA)",
+    "depth": 5.0,
+    "ago": "3 saat önce"
+  },
+  {
     "time": "03:48:40",
     "magnitude": 4.1,
     "location": "GIRIT ADASI (AKDENIZ)",
     "depth": 6.1,
-    "ago": "7 saat önce"
+    "ago": "13 saat önce"
   }
 ]
