@@ -1,79 +1,72 @@
 [
   {
-    "title": "🏎 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026 - Practice 1",
-    "start": "2026-10-02T07:30:00+03:00",
-    "end": "2026-10-02T08:30:00+03:00",
-    "time": "07:30",
+    "title": "🏎 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - Practice 1",
+    "start": "2026-10-09T11:30:00+03:00",
+    "end": "2026-10-09T12:30:00+03:00",
+    "time": "11:30",
     "all_day": false
   },
   {
-    "title": "FW: YYS",
-    "start": "2026-10-02T10:00:00+03:00",
-    "end": "2026-10-02T11:00:00+03:00",
-    "time": "10:00",
+    "title": "⏱️ FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - Sprint Qualification",
+    "start": "2026-10-09T15:30:00+03:00",
+    "end": "2026-10-09T16:14:00+03:00",
+    "time": "15:30",
     "all_day": false
   },
   {
-    "title": "🏎 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026 - Practice 2",
-    "start": "2026-10-02T11:00:00+03:00",
-    "end": "2026-10-02T12:00:00+03:00",
+    "title": "[MotoGP] Indonesia – Qualifying 1",
+    "start": "2026-10-10T06:50:00+03:00",
+    "end": "2026-10-10T07:05:00+03:00",
+    "time": "06:50",
+    "all_day": false
+  },
+  {
+    "title": "[MotoGP] Indonesia – Qualifying 2",
+    "start": "2026-10-10T07:15:00+03:00",
+    "end": "2026-10-10T07:30:00+03:00",
+    "time": "07:15",
+    "all_day": false
+  },
+  {
+    "title": "[MotoGP] Indonesia – Sprint",
+    "start": "2026-10-10T11:00:00+03:00",
+    "end": "2026-10-10T12:00:00+03:00",
     "time": "11:00",
     "all_day": false
   },
   {
-    "title": "[MotoGP] Japan – Qualifying 1",
-    "start": "2026-10-03T05:50:00+03:00",
-    "end": "2026-10-03T06:05:00+03:00",
-    "time": "05:50",
+    "title": "🏁 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - Sprint Race",
+    "start": "2026-10-10T12:00:00+03:00",
+    "end": "2026-10-10T13:00:00+03:00",
+    "time": "12:00",
     "all_day": false
   },
   {
-    "title": "[MotoGP] Japan – Qualifying 2",
-    "start": "2026-10-03T06:15:00+03:00",
-    "end": "2026-10-03T06:30:00+03:00",
-    "time": "06:15",
+    "title": "Kredi karti ödemesi",
+    "start": "2026-10-10T12:00:00+03:00",
+    "end": "2026-10-10T13:00:00+03:00",
+    "time": "12:00",
     "all_day": false
   },
   {
-    "title": "🏎 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026 - Practice 3",
-    "start": "2026-10-03T07:30:00+03:00",
-    "end": "2026-10-03T08:30:00+03:00",
-    "time": "07:30",
+    "title": "⏱️ FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - Qualifying",
+    "start": "2026-10-10T16:00:00+03:00",
+    "end": "2026-10-10T17:00:00+03:00",
+    "time": "16:00",
     "all_day": false
   },
   {
-    "title": "[MotoGP] Japan – Sprint",
-    "start": "2026-10-03T10:00:00+03:00",
-    "end": "2026-10-03T11:00:00+03:00",
+    "title": "[MotoGP] Indonesia – Grand Prix",
+    "start": "2026-10-11T10:00:00+03:00",
+    "end": "2026-10-11T12:00:00+03:00",
     "time": "10:00",
     "all_day": false
   },
   {
-    "title": "⏱️ FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026 - Qualifying",
-    "start": "2026-10-03T11:00:00+03:00",
-    "end": "2026-10-03T12:00:00+03:00",
-    "time": "11:00",
-    "all_day": false
-  },
-  {
-    "title": "🌲 WRC | Rally Italia Sardegna | Power Stage – saat TBC",
-    "start": "2026-10-04T00:00:00+03:00",
-    "end": "2026-10-05T00:00:00+03:00",
-    "time": "Tüm gün",
-    "all_day": true
-  },
-  {
-    "title": "[MotoGP] Japan – Grand Prix",
-    "start": "2026-10-04T09:00:00+03:00",
-    "end": "2026-10-04T11:00:00+03:00",
-    "time": "09:00",
-    "all_day": false
-  },
-  {
-    "title": "🏁 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026 - Race",
-    "start": "2026-10-04T10:00:00+03:00",
-    "end": "2026-10-04T12:00:00+03:00",
-    "time": "10:00",
+    "title": "🏁 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - Race",
+    "start": "2026-10-11T15:00:00+03:00",
+    "end": "2026-10-11T17:00:00+03:00",
+    "time": "15:00",
     "all_day": false
   }
 ]

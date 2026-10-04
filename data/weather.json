@@ -1,29 +1,23 @@
 {
   "current": {
-    "temperature": 16.9,
-    "feels_like": 15.5,
-    "humidity": 66,
-    "wind_speed": 10.5,
+    "temperature": 16.0,
+    "feels_like": 15.2,
+    "humidity": 71,
+    "wind_speed": 7.1,
     "code": 1,
     "condition": "Az bulutlu"
   },
   "sun": {
-    "sunrise": "07:03",
-    "sunset": "18:41"
+    "sunrise": "07:04",
+    "sunset": "18:39"
   },
   "moon": {
-    "phase": "Son Dördün",
-    "illumination": 42,
-    "icon": "🌗",
+    "phase": "Küçülen Hilal",
+    "illumination": 40,
+    "icon": "🌘",
     "waxing": false
   },
   "daily": [
-    {
-      "day": "Paz",
-      "code": 2,
-      "max": 20.8,
-      "min": 15.3
-    },
     {
       "day": "Pzt",
       "code": 3,
@@ -47,6 +41,12 @@
       "code": 3,
       "max": 20.6,
       "min": 14.0
+    },
+    {
+      "day": "Cum",
+      "code": 3,
+      "max": 24.4,
+      "min": 16.3
     }
   ]
 }
