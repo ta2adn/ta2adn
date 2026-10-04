@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 18.9,
-    "feels_like": 15.9,
-    "humidity": 58,
-    "wind_speed": 21.6,
+    "temperature": 16.9,
+    "feels_like": 15.5,
+    "humidity": 66,
+    "wind_speed": 10.5,
     "code": 1,
     "condition": "Az bulutlu"
   },
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Son Dördün",
-    "illumination": 44,
+    "illumination": 42,
     "icon": "🌗",
     "waxing": false
   },
@@ -21,32 +21,32 @@
     {
       "day": "Paz",
       "code": 2,
-      "max": 20.5,
+      "max": 20.8,
       "min": 15.3
     },
     {
       "day": "Pzt",
       "code": 3,
-      "max": 20.8,
-      "min": 14.2
+      "max": 21.1,
+      "min": 14.6
     },
     {
       "day": "Sal",
       "code": 3,
-      "max": 20.8,
-      "min": 15.1
+      "max": 21.1,
+      "min": 14.6
     },
     {
       "day": "Çar",
       "code": 3,
-      "max": 21.5,
-      "min": 14.5
+      "max": 21.0,
+      "min": 13.9
     },
     {
       "day": "Per",
       "code": 3,
-      "max": 20.1,
-      "min": 13.4
+      "max": 20.6,
+      "min": 14.0
     }
   ]
 }
