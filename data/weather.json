@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 15.9,
-    "feels_like": 17.0,
+    "temperature": 15.6,
+    "feels_like": 16.5,
     "humidity": 89,
-    "wind_speed": 1.8,
+    "wind_speed": 2.3,
     "code": 0,
     "condition": "Açık"
   },
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Küçülen Hilal",
-    "illumination": 7,
+    "illumination": 6,
     "icon": "🌘",
     "waxing": false
   },
@@ -21,8 +21,8 @@
     {
       "day": "Cum",
       "code": 0,
-      "max": 22.9,
-      "min": 14.9
+      "max": 23.0,
+      "min": 15.3
     },
     {
       "day": "Cmt",
