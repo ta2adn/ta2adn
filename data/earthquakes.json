@@ -1,9 +1,16 @@
 [
   {
+    "time": "22:49:45",
+    "magnitude": 3.6,
+    "location": "AKDENIZ",
+    "depth": 18.4,
+    "ago": "3 saat önce"
+  },
+  {
     "time": "14:58:14",
     "magnitude": 3.9,
     "location": "AKDENIZ",
     "depth": 10.9,
-    "ago": "7 saat önce"
+    "ago": "11 saat önce"
   }
 ]
