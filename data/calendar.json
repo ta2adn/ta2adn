@@ -35,13 +35,6 @@
     "all_day": false
   },
   {
-    "title": "🏁 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - Sprint Race",
-    "start": "2026-10-10T12:00:00+03:00",
-    "end": "2026-10-10T13:00:00+03:00",
-    "time": "12:00",
-    "all_day": false
-  },
-  {
     "title": "Kredi karti ödemesi",
     "start": "2026-10-10T12:00:00+03:00",
     "end": "2026-10-10T13:00:00+03:00",
@@ -49,10 +42,17 @@
     "all_day": false
   },
   {
+    "title": "🏁 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - Sprint Race",
+    "start": "2026-10-10T12:00:00+03:00",
+    "end": "2026-10-10T13:00:00+03:00",
+    "time": "12:00",
+    "all_day": false
+  },
+  {
     "title": "⏱️ FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 - Qualifying",
-    "start": "2026-10-10T16:00:00+03:00",
-    "end": "2026-10-10T17:00:00+03:00",
-    "time": "16:00",
+    "start": "2026-10-10T16:30:00+03:00",
+    "end": "2026-10-10T17:30:00+03:00",
+    "time": "16:30",
     "all_day": false
   },
   {
