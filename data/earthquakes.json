@@ -4,13 +4,20 @@
     "magnitude": 3.6,
     "location": "AKDENIZ",
     "depth": 18.4,
-    "ago": "19 saat önce"
+    "ago": "23 saat önce"
+  },
+  {
+    "time": "22:08:49",
+    "magnitude": 3.5,
+    "location": "YALOVA",
+    "depth": 13.0,
+    "ago": "18 dakika önce"
   },
   {
     "time": "10:04:56",
     "magnitude": 3.6,
     "location": "AVSAROZU-REFAHIYE (ERZINCAN)",
     "depth": 5.2,
-    "ago": "8 saat önce"
+    "ago": "12 saat önce"
   }
 ]
