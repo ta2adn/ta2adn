@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 16.2,
-    "feels_like": 15.7,
-    "humidity": 66,
-    "wind_speed": 3.4,
+    "temperature": 21.2,
+    "feels_like": 21.8,
+    "humidity": 61,
+    "wind_speed": 3.3,
     "code": 0,
     "condition": "Açık"
   },
@@ -21,32 +21,32 @@
     {
       "day": "Paz",
       "code": 3,
-      "max": 25.0,
-      "min": 15.7
+      "max": 24.8,
+      "min": 15.1
     },
     {
       "day": "Pzt",
-      "code": 3,
-      "max": 25.1,
-      "min": 18.1
+      "code": 80,
+      "max": 24.7,
+      "min": 18.2
     },
     {
       "day": "Sal",
-      "code": 95,
-      "max": 19.7,
-      "min": 15.2
+      "code": 80,
+      "max": 21.1,
+      "min": 15.7
     },
     {
       "day": "Çar",
       "code": 95,
-      "max": 15.8,
-      "min": 14.7
+      "max": 22.2,
+      "min": 16.0
     },
     {
       "day": "Per",
       "code": 95,
-      "max": 18.0,
-      "min": 15.4
+      "max": 17.7,
+      "min": 15.6
     }
   ]
 }
