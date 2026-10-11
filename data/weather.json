@@ -1,52 +1,52 @@
 {
   "current": {
-    "temperature": 21.2,
-    "feels_like": 21.8,
-    "humidity": 61,
-    "wind_speed": 3.3,
+    "temperature": 23.7,
+    "feels_like": 24.3,
+    "humidity": 53,
+    "wind_speed": 3.0,
     "code": 0,
     "condition": "Açık"
   },
   "sun": {
-    "sunrise": "07:11",
+    "sunrise": "07:10",
     "sunset": "18:30"
   },
   "moon": {
     "phase": "Yeni Ay",
     "illumination": 0,
     "icon": "🌑",
-    "waxing": false
+    "waxing": true
   },
   "daily": [
     {
       "day": "Paz",
       "code": 3,
-      "max": 24.8,
+      "max": 24.3,
       "min": 15.1
     },
     {
       "day": "Pzt",
-      "code": 80,
-      "max": 24.7,
-      "min": 18.2
+      "code": 3,
+      "max": 24.1,
+      "min": 17.7
     },
     {
       "day": "Sal",
       "code": 80,
-      "max": 21.1,
+      "max": 21.3,
       "min": 15.7
     },
     {
       "day": "Çar",
-      "code": 95,
-      "max": 22.2,
-      "min": 16.0
+      "code": 80,
+      "max": 20.3,
+      "min": 16.7
     },
     {
       "day": "Per",
-      "code": 95,
-      "max": 17.7,
-      "min": 15.6
+      "code": 65,
+      "max": 17.6,
+      "min": 15.9
     }
   ]
 }
