@@ -1,29 +1,23 @@
 {
   "current": {
-    "temperature": 11.9,
-    "feels_like": 10.2,
-    "humidity": 90,
-    "wind_speed": 12.5,
+    "temperature": 11.1,
+    "feels_like": 7.7,
+    "humidity": 75,
+    "wind_speed": 18.1,
     "code": 80,
     "condition": "Sağanak"
   },
   "sun": {
-    "sunrise": "07:16",
-    "sunset": "18:22"
+    "sunrise": "07:17",
+    "sunset": "18:20"
   },
   "moon": {
     "phase": "Büyüyen Hilal",
-    "illumination": 30,
+    "illumination": 31,
     "icon": "🌒",
     "waxing": true
   },
   "daily": [
-    {
-      "day": "Cum",
-      "code": 80,
-      "max": 14.1,
-      "min": 11.8
-    },
     {
       "day": "Cmt",
       "code": 80,
@@ -47,6 +41,12 @@
       "code": 3,
       "max": 19.3,
       "min": 12.9
+    },
+    {
+      "day": "Çar",
+      "code": 3,
+      "max": 20.5,
+      "min": 11.7
     }
   ]
 }
