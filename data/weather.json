@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 10.9,
-    "feels_like": 8.6,
-    "humidity": 80,
-    "wind_speed": 11.3,
-    "code": 2,
-    "condition": "Parçalı bulutlu"
+    "temperature": 11.3,
+    "feels_like": 9.8,
+    "humidity": 79,
+    "wind_speed": 5.9,
+    "code": 3,
+    "condition": "Kapalı"
   },
   "sun": {
     "sunrise": "07:17",
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Büyüyen Hilal",
-    "illumination": 32,
+    "illumination": 34,
     "icon": "🌒",
     "waxing": true
   },
@@ -28,25 +28,25 @@
       "day": "Paz",
       "code": 61,
       "max": 16.8,
-      "min": 11.4
+      "min": 11.6
     },
     {
       "day": "Pzt",
       "code": 3,
-      "max": 17.8,
-      "min": 13.8
+      "max": 17.9,
+      "min": 13.5
     },
     {
       "day": "Sal",
       "code": 3,
-      "max": 19.4,
-      "min": 13.6
+      "max": 20.3,
+      "min": 12.3
     },
     {
       "day": "Çar",
-      "code": 3,
-      "max": 20.0,
-      "min": 11.4
+      "code": 2,
+      "max": 21.1,
+      "min": 11.9
     }
   ]
 }
