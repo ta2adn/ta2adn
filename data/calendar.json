@@ -1,9 +1,72 @@
 [
   {
-    "title": "YYS Toplantısı",
-    "start": "2026-10-15T14:00:00+03:00",
-    "end": "2026-10-15T15:00:00+03:00",
-    "time": "14:00",
+    "title": "🏎 FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2026 - Practice 1",
+    "start": "2026-10-23T20:30:00+03:00",
+    "end": "2026-10-23T21:30:00+03:00",
+    "time": "20:30",
+    "all_day": false
+  },
+  {
+    "title": "🏎 FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2026 - Practice 2",
+    "start": "2026-10-24T00:00:00+03:00",
+    "end": "2026-10-24T01:00:00+03:00",
+    "time": "00:00",
+    "all_day": false
+  },
+  {
+    "title": "[WEC] Qatar 1812 km – Race – start time TBC",
+    "start": "2026-10-24T00:00:00+03:00",
+    "end": "2026-10-25T00:00:00+03:00",
+    "time": "Tüm gün",
+    "all_day": true
+  },
+  {
+    "title": "[MotoGP] Australia – Qualifying 1",
+    "start": "2026-10-24T03:50:00+03:00",
+    "end": "2026-10-24T04:05:00+03:00",
+    "time": "03:50",
+    "all_day": false
+  },
+  {
+    "title": "[MotoGP] Australia – Qualifying 2",
+    "start": "2026-10-24T04:15:00+03:00",
+    "end": "2026-10-24T04:30:00+03:00",
+    "time": "04:15",
+    "all_day": false
+  },
+  {
+    "title": "[MotoGP] Australia – Sprint",
+    "start": "2026-10-24T08:00:00+03:00",
+    "end": "2026-10-24T09:00:00+03:00",
+    "time": "08:00",
+    "all_day": false
+  },
+  {
+    "title": "🏎 FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2026 - Practice 3",
+    "start": "2026-10-24T20:30:00+03:00",
+    "end": "2026-10-24T21:30:00+03:00",
+    "time": "20:30",
+    "all_day": false
+  },
+  {
+    "title": "⏱️ FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2026 - Qualifying",
+    "start": "2026-10-25T00:00:00+03:00",
+    "end": "2026-10-25T01:00:00+03:00",
+    "time": "00:00",
+    "all_day": false
+  },
+  {
+    "title": "[MotoGP] Australia – Grand Prix",
+    "start": "2026-10-25T07:00:00+03:00",
+    "end": "2026-10-25T09:00:00+03:00",
+    "time": "07:00",
+    "all_day": false
+  },
+  {
+    "title": "🏁 FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2026 - Race",
+    "start": "2026-10-25T23:00:00+03:00",
+    "end": "2026-10-26T01:00:00+03:00",
+    "time": "23:00",
     "all_day": false
   }
 ]
