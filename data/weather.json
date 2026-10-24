@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 18.3,
-    "feels_like": 17.0,
+    "temperature": 17.7,
+    "feels_like": 15.8,
     "humidity": 67,
-    "wind_speed": 13.1,
-    "code": 2,
-    "condition": "Parçalı bulutlu"
+    "wind_speed": 16.4,
+    "code": 1,
+    "condition": "Az bulutlu"
   },
   "sun": {
     "sunrise": "07:25",
@@ -27,8 +27,8 @@
     {
       "day": "Paz",
       "code": 3,
-      "max": 21.1,
-      "min": 13.4
+      "max": 21.3,
+      "min": 13.5
     },
     {
       "day": "Pzt",
