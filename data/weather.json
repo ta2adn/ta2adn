@@ -1,15 +1,15 @@
 {
   "current": {
-    "temperature": 16.5,
-    "feels_like": 16.5,
-    "humidity": 91,
-    "wind_speed": 12.0,
-    "code": 3,
-    "condition": "Kapalı"
+    "temperature": 16.4,
+    "feels_like": 15.3,
+    "humidity": 89,
+    "wind_speed": 17.7,
+    "code": 61,
+    "condition": "Yağmurlu"
   },
   "sun": {
-    "sunrise": "07:27",
-    "sunset": "18:07"
+    "sunrise": "07:29",
+    "sunset": "18:06"
   },
   "moon": {
     "phase": "Dolunay",
@@ -19,34 +19,34 @@
   },
   "daily": [
     {
-      "day": "Pzt",
-      "code": 3,
-      "max": 21.0,
-      "min": 15.0
-    },
-    {
       "day": "Sal",
       "code": 80,
       "max": 16.6,
-      "min": 12.3
+      "min": 12.0
     },
     {
       "day": "Çar",
       "code": 61,
-      "max": 18.3,
-      "min": 12.3
+      "max": 17.2,
+      "min": 11.9
     },
     {
       "day": "Per",
       "code": 95,
-      "max": 18.0,
-      "min": 15.5
+      "max": 17.6,
+      "min": 15.6
     },
     {
       "day": "Cum",
-      "code": 63,
+      "code": 61,
       "max": 15.6,
-      "min": 14.1
+      "min": 14.2
+    },
+    {
+      "day": "Cmt",
+      "code": 61,
+      "max": 15.0,
+      "min": 13.8
     }
   ]
 }
