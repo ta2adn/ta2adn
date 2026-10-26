@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 15.4,
-    "feels_like": 16.1,
-    "humidity": 93,
-    "wind_speed": 5.2,
+    "temperature": 17.3,
+    "feels_like": 17.9,
+    "humidity": 84,
+    "wind_speed": 6.4,
     "code": 3,
     "condition": "Kapalı"
   },
@@ -15,38 +15,38 @@
     "phase": "Dolunay",
     "illumination": 100,
     "icon": "🌕",
-    "waxing": true
+    "waxing": false
   },
   "daily": [
     {
       "day": "Pzt",
-      "code": 61,
-      "max": 20.4,
-      "min": 15.4
+      "code": 3,
+      "max": 20.3,
+      "min": 15.0
     },
     {
       "day": "Sal",
-      "code": 95,
-      "max": 16.5,
+      "code": 80,
+      "max": 16.6,
       "min": 12.8
     },
     {
       "day": "Çar",
       "code": 3,
-      "max": 19.3,
-      "min": 13.2
+      "max": 18.4,
+      "min": 12.7
     },
     {
       "day": "Per",
       "code": 95,
-      "max": 18.1,
-      "min": 15.5
+      "max": 17.2,
+      "min": 15.6
     },
     {
       "day": "Cum",
       "code": 61,
-      "max": 15.5,
-      "min": 14.5
+      "max": 16.2,
+      "min": 14.9
     }
   ]
 }
