@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 12.9,
-    "feels_like": 12.2,
-    "humidity": 90,
-    "wind_speed": 7.5,
+    "temperature": 13.5,
+    "feels_like": 12.6,
+    "humidity": 88,
+    "wind_speed": 9.0,
     "code": 3,
     "condition": "Kapalı"
   },
@@ -28,7 +28,7 @@
       "day": "Per",
       "code": 95,
       "max": 17.1,
-      "min": 15.1
+      "min": 15.3
     },
     {
       "day": "Cum",
