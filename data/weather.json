@@ -1,9 +1,9 @@
 {
   "current": {
     "temperature": 16.0,
-    "feels_like": 14.7,
-    "humidity": 88,
-    "wind_speed": 18.2,
+    "feels_like": 14.8,
+    "humidity": 89,
+    "wind_speed": 17.1,
     "code": 3,
     "condition": "Kapalı"
   },
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Küçülen Ay",
-    "illumination": 93,
+    "illumination": 92,
     "icon": "🌖",
     "waxing": false
   },
@@ -26,8 +26,8 @@
     },
     {
       "day": "Per",
-      "code": 80,
-      "max": 17.5,
+      "code": 95,
+      "max": 17.9,
       "min": 15.5
     },
     {
