@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "time": "17:30:01",
+    "magnitude": 3.5,
+    "location": "YUNANISTAN",
+    "depth": 20.9,
+    "ago": "49 dakika önce"
+  },
+  {
+    "time": "15:56:12",
+    "magnitude": 3.5,
+    "location": "YUNANISTAN",
+    "depth": 21.7,
+    "ago": "2 saat önce"
+  },
+  {
+    "time": "15:25:48",
+    "magnitude": 3.5,
+    "location": "YUNANISTAN",
+    "depth": 18.4,
+    "ago": "2 saat önce"
+  },
+  {
+    "time": "15:05:14",
+    "magnitude": 4.0,
+    "location": "YUNANISTAN",
+    "depth": 22.7,
+    "ago": "3 saat önce"
+  },
+  {
+    "time": "14:20:22",
+    "magnitude": 3.5,
+    "location": "YUNANISTAN",
+    "depth": 23.3,
+    "ago": "3 saat önce"
+  },
+  {
+    "time": "14:16:56",
+    "magnitude": 3.5,
+    "location": "YUNANISTAN",
+    "depth": 9.2,
+    "ago": "4 saat önce"
+  },
+  {
+    "time": "14:13:16",
+    "magnitude": 3.9,
+    "location": "YUNANISTAN",
+    "depth": 10.8,
+    "ago": "4 saat önce"
+  },
+  {
+    "time": "14:00:47",
+    "magnitude": 4.0,
+    "location": "YUNANISTAN",
+    "depth": 16.1,
+    "ago": "4 saat önce"
+  },
+  {
+    "time": "13:45:02",
+    "magnitude": 5.0,
+    "location": "YUNANISTAN",
+    "depth": 22.6,
+    "ago": "4 saat önce"
+  }
+]
