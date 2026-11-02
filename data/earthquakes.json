@@ -1,9 +1,23 @@
 [
   {
+    "time": "20:58:04",
+    "magnitude": 4.0,
+    "location": "AKCALIUSAGI-KOZAN (ADANA)",
+    "depth": 5.0,
+    "ago": "1 saat önce"
+  },
+  {
+    "time": "19:49:15",
+    "magnitude": 4.9,
+    "location": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+    "depth": 18.0,
+    "ago": "2 saat önce"
+  },
+  {
     "time": "11:59:22",
     "magnitude": 4.0,
     "location": "GIRIT ADASI ACIKLARI (AKDENIZ)",
     "depth": 23.6,
-    "ago": "11 dakika önce"
+    "ago": "10 saat önce"
   }
 ]
