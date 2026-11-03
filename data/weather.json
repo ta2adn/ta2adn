@@ -1,52 +1,52 @@
 {
   "current": {
-    "temperature": 16.7,
-    "feels_like": 18.1,
-    "humidity": 91,
-    "wind_speed": 2.3,
-    "code": 95,
-    "condition": "Fırtına"
+    "temperature": 15.5,
+    "feels_like": 16.4,
+    "humidity": 90,
+    "wind_speed": 2.5,
+    "code": 2,
+    "condition": "Parçalı bulutlu"
   },
   "sun": {
-    "sunrise": "07:36",
-    "sunset": "17:59"
+    "sunrise": "07:37",
+    "sunset": "17:57"
   },
   "moon": {
     "phase": "Son Dördün",
-    "illumination": 47,
+    "illumination": 44,
     "icon": "🌗",
     "waxing": false
   },
   "daily": [
     {
-      "day": "Pzt",
-      "code": 95,
-      "max": 20.7,
-      "min": 14.9
-    },
-    {
       "day": "Sal",
-      "code": 80,
-      "max": 18.7,
-      "min": 13.6
+      "code": 95,
+      "max": 18.3,
+      "min": 14.5
     },
     {
       "day": "Çar",
       "code": 95,
       "max": 15.7,
-      "min": 12.9
+      "min": 13.0
     },
     {
       "day": "Per",
       "code": 61,
-      "max": 12.9,
-      "min": 9.5
+      "max": 13.2,
+      "min": 9.9
     },
     {
       "day": "Cum",
       "code": 61,
-      "max": 11.3,
-      "min": 8.6
+      "max": 11.6,
+      "min": 7.5
+    },
+    {
+      "day": "Cmt",
+      "code": 3,
+      "max": 11.4,
+      "min": 7.1
     }
   ]
 }
