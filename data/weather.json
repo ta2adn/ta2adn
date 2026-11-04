@@ -1,10 +1,10 @@
 {
   "current": {
-    "temperature": 15.2,
-    "feels_like": 15.5,
-    "humidity": 92,
-    "wind_speed": 6.9,
-    "code": 63,
+    "temperature": 13.7,
+    "feels_like": 10.8,
+    "humidity": 81,
+    "wind_speed": 21.1,
+    "code": 61,
     "condition": "Yağmurlu"
   },
   "sun": {
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Küçülen Hilal",
-    "illumination": 31,
+    "illumination": 28,
     "icon": "🌘",
     "waxing": false
   },
@@ -28,25 +28,25 @@
       "day": "Per",
       "code": 61,
       "max": 13.2,
-      "min": 9.8
+      "min": 9.7
     },
     {
       "day": "Cum",
       "code": 80,
-      "max": 11.9,
-      "min": 7.9
+      "max": 11.5,
+      "min": 7.6
     },
     {
       "day": "Cmt",
       "code": 61,
-      "max": 10.6,
-      "min": 6.6
+      "max": 11.2,
+      "min": 7.0
     },
     {
       "day": "Paz",
-      "code": 3,
+      "code": 61,
       "max": 11.1,
-      "min": 4.9
+      "min": 6.0
     }
   ]
 }
