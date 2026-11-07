@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 7.4,
-    "feels_like": 5.5,
-    "humidity": 82,
-    "wind_speed": 3.8,
+    "temperature": 8.7,
+    "feels_like": 6.6,
+    "humidity": 86,
+    "wind_speed": 8.7,
     "code": 2,
     "condition": "Parçalı bulutlu"
   },
@@ -21,14 +21,14 @@
     {
       "day": "Cmt",
       "code": 61,
-      "max": 11.6,
-      "min": 7.2
+      "max": 11.7,
+      "min": 6.9
     },
     {
       "day": "Paz",
       "code": 3,
       "max": 10.7,
-      "min": 6.2
+      "min": 6.0
     },
     {
       "day": "Pzt",
