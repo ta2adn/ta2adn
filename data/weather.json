@@ -1,15 +1,15 @@
 {
   "current": {
-    "temperature": 6.9,
-    "feels_like": 5.1,
-    "humidity": 89,
-    "wind_speed": 4.4,
-    "code": 0,
-    "condition": "Açık"
+    "temperature": 3.9,
+    "feels_like": 1.7,
+    "humidity": 99,
+    "wind_speed": 4.8,
+    "code": 45,
+    "condition": "Sisli"
   },
   "sun": {
-    "sunrise": "07:43",
-    "sunset": "17:52"
+    "sunrise": "07:44",
+    "sunset": "17:51"
   },
   "moon": {
     "phase": "Küçülen Hilal",
@@ -19,34 +19,34 @@
   },
   "daily": [
     {
-      "day": "Paz",
-      "code": 61,
-      "max": 10.8,
-      "min": 6.2
-    },
-    {
       "day": "Pzt",
       "code": 45,
-      "max": 13.2,
-      "min": 2.9
+      "max": 13.1,
+      "min": 2.5
     },
     {
       "day": "Sal",
       "code": 80,
-      "max": 13.2,
-      "min": 9.1
+      "max": 13.0,
+      "min": 8.6
     },
     {
       "day": "Çar",
-      "code": 61,
-      "max": 17.4,
-      "min": 11.5
+      "code": 80,
+      "max": 17.7,
+      "min": 11.1
     },
     {
       "day": "Per",
-      "code": 61,
-      "max": 19.5,
-      "min": 15.5
+      "code": 80,
+      "max": 19.9,
+      "min": 15.9
+    },
+    {
+      "day": "Cum",
+      "code": 3,
+      "max": 21.1,
+      "min": 17.5
     }
   ]
 }
