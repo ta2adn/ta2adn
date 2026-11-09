@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "time": "15:28:18",
+    "magnitude": 4.7,
+    "location": "AKDAM-KOZAN (ADANA)",
+    "depth": 6.4,
+    "ago": "10 saat önce"
+  },
+  {
+    "time": "15:28:18",
+    "magnitude": 4.6,
+    "location": "AKDAM-KOZAN (ADANA)",
+    "depth": 6.4,
+    "ago": "10 saat önce"
+  }
+]
