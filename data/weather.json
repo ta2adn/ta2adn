@@ -1,11 +1,11 @@
 {
   "current": {
-    "temperature": 7.9,
-    "feels_like": 5.1,
-    "humidity": 69,
-    "wind_speed": 7.5,
-    "code": 61,
-    "condition": "Yağmurlu"
+    "temperature": 6.2,
+    "feels_like": 3.4,
+    "humidity": 68,
+    "wind_speed": 5.1,
+    "code": 0,
+    "condition": "Açık"
   },
   "sun": {
     "sunrise": "08:01",
@@ -15,38 +15,38 @@
     "phase": "Dolunay",
     "illumination": 100,
     "icon": "🌕",
-    "waxing": true
+    "waxing": false
   },
   "daily": [
     {
       "day": "Sal",
       "code": 80,
       "max": 11.6,
-      "min": 5.7
+      "min": 5.4
     },
     {
       "day": "Çar",
       "code": 1,
-      "max": 9.4,
-      "min": 3.0
+      "max": 9.3,
+      "min": 2.7
     },
     {
       "day": "Per",
       "code": 3,
-      "max": 13.5,
-      "min": 4.2
+      "max": 13.6,
+      "min": 4.9
     },
     {
       "day": "Cum",
       "code": 3,
-      "max": 17.0,
-      "min": 13.5
+      "max": 16.6,
+      "min": 9.9
     },
     {
       "day": "Cmt",
       "code": 3,
-      "max": 15.3,
-      "min": 12.1
+      "max": 15.9,
+      "min": 11.6
     }
   ]
 }
