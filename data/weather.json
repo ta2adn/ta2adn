@@ -1,9 +1,9 @@
 {
   "current": {
-    "temperature": 2.9,
-    "feels_like": -0.3,
-    "humidity": 63,
-    "wind_speed": 4.1,
+    "temperature": 9.0,
+    "feels_like": 5.3,
+    "humidity": 45,
+    "wind_speed": 8.5,
     "code": 0,
     "condition": "Açık"
   },
@@ -13,7 +13,7 @@
   },
   "moon": {
     "phase": "Dolunay",
-    "illumination": 100,
+    "illumination": 99,
     "icon": "🌕",
     "waxing": false
   },
@@ -21,32 +21,32 @@
     {
       "day": "Çar",
       "code": 1,
-      "max": 9.2,
-      "min": 2.6
+      "max": 9.0,
+      "min": 2.5
     },
     {
       "day": "Per",
       "code": 3,
-      "max": 13.2,
-      "min": 4.2
+      "max": 13.0,
+      "min": 4.5
     },
     {
       "day": "Cum",
       "code": 3,
-      "max": 16.3,
-      "min": 10.1
+      "max": 16.6,
+      "min": 11.1
     },
     {
       "day": "Cmt",
       "code": 3,
-      "max": 15.8,
-      "min": 11.1
+      "max": 17.1,
+      "min": 10.8
     },
     {
       "day": "Paz",
       "code": 61,
-      "max": 12.5,
-      "min": 8.8
+      "max": 12.8,
+      "min": 7.0
     }
   ]
 }
