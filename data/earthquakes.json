@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "time": "05:44:09",
+    "magnitude": 4.2,
+    "location": "ONIKI ADALAR (EGE DENIZI)",
+    "depth": 12.9,
+    "ago": "1 saat önce"
+  },
+  {
+    "time": "02:31:03",
+    "magnitude": 3.9,
+    "location": "AKDENIZ",
+    "depth": 8.0,
+    "ago": "4 saat önce"
+  }
+]
